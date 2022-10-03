@@ -882,8 +882,6 @@ BirmSolNHSFounTrust,early HD,2019,Screening
 BirmSolNHSFounTrust,early HD,2019,Sampling
 CenterMovDis,healthy control,2019,Screening
 CenterMovDis,healthy control,2019,Sampling
-GreatGlasgowHealthBoard,----,2019,Screening
-GreatGlasgowHealthBoard,----,2019,Sampling
 Cenexel,healthy control,2019,Screening
 Cenexel,healthy control,2019,Sampling
 LeedsTeachHospTrust,early HD,2019,Screening
@@ -1285,7 +1283,7 @@ GeorgetownUniv,early HD,2022,Screening
 GeorgetownUniv,early HD,2022,Sampling
 InstPsychandNeuro,early pre-manifest HD,2022,Screening
 LegaItalRiceHunt,early pre-manifest HD,2022,Screening
-LegaItalRiceHunt,early pre-manifest HD,2022,Sampling
+RoyalDevExetFounTrst,early pre-manifest HD,2022,Sampling
 HospCreuSantPau,healthy control,2022,Screening
 HospCreuSantPau,healthy control,2022,Sampling
 GeorgeHuntingtonInst,early HD,2022,Screening
@@ -1297,18 +1295,17 @@ HospCreuSantPau,late pre-manifest HD,2022,Sampling
 VanderbiltUnivMedCtr,early HD,2022,Screening
 VanderbiltUnivMedCtr,early HD,2022,Sampling
 VanderbiltUnivMedCtr,early pre-manifest HD,2022,Screening
-VanderbiltUnivMedCtr,early pre-manifest HD,2022,Sampling
+UnivCambridge,early pre-manifest HD,2022,Sampling
 CardiffUniv,early HD,2022,Screening
 GeorgeHuntingtonInst,early HD,2022,Sampling
 GeorgeHuntingtonInst,early HD,2022,Screening
 GeorgeHuntingtonInst,early HD,2022,Sampling
-VanderbiltUnivMedCtr,----,2022,Screening
 UnivHospUlm,healthy control,2022,Screening
 UnivHospUlm,healthy control,2022,Sampling
 GeorgeHuntingtonInst,early HD,2022,Screening
 GeorgeHuntingtonInst,early HD,2022,Sampling
 GeorgeHuntingtonInst,early pre-manifest HD,2022,Screening
-GeorgeHuntingtonInst,early pre-manifest HD,2022,Sampling
+UnivCambridge,early pre-manifest HD,2022,RPT Sampling
 OxfordUnivHospTrust,early HD,2022,Screening
 OxfordUnivHospTrust,early HD,2022,Sampling
 UnivTexasHlthCntrHous,late pre-manifest HD,2022,Screening
@@ -1326,7 +1323,7 @@ Cenexel,healthy control,2022,Sampling
 GeorgeHuntingtonInst,early HD,2022,Screening
 GeorgeHuntingtonInst,early HD,2022,Sampling
 Cenexel,early pre-manifest HD,2022,Screening
-Cenexel,early pre-manifest HD,2022,Sampling
+LegaItalRiceHunt,early pre-manifest HD,2022,Sampling
 UnivHospUlm,early HD,2022,Screening
 UnivHospUlm,early HD,2022,Sampling
 LegaItalRiceHunt,early HD,2022,Screening
@@ -1350,7 +1347,7 @@ UnivHospUlm,late pre-manifest HD,2022,Screening
 UnivHospUlm,late pre-manifest HD,2022,Sampling
 UnivHospUlm,early HD,2022,Screening
 UnivHospUlm,early pre-manifest HD,2022,Screening
-UnivHospUlm,early pre-manifest HD,2022,Sampling
+VanderbiltUnivMedCtr,early pre-manifest HD,2022,Sampling
 GeorgeHuntingtonInst,early HD,2022,Screening
 GeorgeHuntingtonInst,early HD,2022,Sampling
 GeorgeHuntingtonInst,early HD,2022,Screening
@@ -1362,7 +1359,7 @@ GeorgeHuntingtonInst,healthy control,2022,Screening
 GeorgeHuntingtonInst,healthy control,2022,Sampling
 UnivHospErlangen,early HD,2022,Sampling
 Cenexel,early pre-manifest HD,2022,Screening
-Cenexel,early pre-manifest HD,2022,Sampling
+GeorgeHuntingtonInst,early pre-manifest HD,2022,Sampling
 GeorgetownUniv,early HD,2022,Screening
 GeorgetownUniv,early HD,2022,Sampling
 GeorgeHuntingtonInst,early HD,2022,Screening
@@ -1370,7 +1367,7 @@ GeorgeHuntingtonInst,early HD,2022,Sampling
 GeorgeHuntingtonInst,healthy control,2022,Screening
 GeorgeHuntingtonInst,healthy control,2022,Sampling
 LegaItalRiceHunt,early pre-manifest HD,2022,Screening
-LegaItalRiceHunt,early pre-manifest HD,2022,Sampling
+Cenexel,early pre-manifest HD,2022,Sampling
 Cenexel,healthy control,2022,Screening
 Cenexel,healthy control,2022,Sampling
 LegaItalRiceHunt,early HD,2022,Screening
@@ -1398,7 +1395,7 @@ RoyalDevExetFounTrst,late pre-manifest HD,2022,Sampling
 RoyalDevExetFounTrst,early HD,2022,Screening
 RoyalDevExetFounTrst,early HD,2022,Sampling
 RoyalDevExetFounTrst,early pre-manifest HD,2022,Screening
-RoyalDevExetFounTrst,early pre-manifest HD,2022,Sampling
+UnivHospUlm,early pre-manifest HD,2022,Sampling
 UnivColLondon,early HD,2022,Screening
 UnivColLondon,early HD,2022,Sampling
 UnivColLondon,late pre-manifest HD,2022,Screening
@@ -1416,9 +1413,9 @@ UnivCambridge,Incomplete penetrance,2022,Screening
 UnivCambridge,Incomplete penetrance,2022,Sampling
 UnivCambridge,Incomplete penetrance,2022,Screening
 UnivCambridge,Incomplete penetrance,2022,RPT Sampling
-UnivCambridge,early pre-manifest HD,2022,Sampling
+Cenexel,early pre-manifest HD,2022,Sampling
 UnivCambridge,early pre-manifest HD,2022,Screening
-UnivCambridge,early pre-manifest HD,2022,RPT Sampling
+LegaItalRiceHunt,early pre-manifest HD,2022,Sampling
 UnivCambridge,late pre-manifest HD,2022,Screening
 UnivCambridge,late pre-manifest HD,2022,Sampling
 LeedsTeachHospTrust,early HD,2022,Screening
