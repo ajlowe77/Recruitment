@@ -1,0 +1,1677 @@
+site,cat,date,visit,Country
+CenterMovDis,early HD,24/01/2017,Screening,Canada
+CenterMovDis,early HD,25/01/2017,Sampling,Canada
+CenterMovDis,early HD,31/01/2017,Screening,Canada
+CenterMovDis,healthy control,31/01/2017,Screening,Canada
+CenterMovDis,healthy control,01/02/2017,Partial Sampling,Canada
+CenterMovDis,early HD,15/02/2017,Sampling,Canada
+CenterMovDis,healthy control,15/02/2017,Screening,Canada
+CenterMovDis,healthy control,15/02/2017,Screening,Canada
+CenterMovDis,healthy control,01/03/2017,Sampling,Canada
+CenterMovDis,healthy control,02/03/2017,Sampling,Canada
+CenterMovDis,late pre-manifest HD,07/03/2017,Screening,Canada
+CenterMovDis,late pre-manifest HD,08/03/2017,Sampling,Canada
+CenterMovDis,early HD,15/03/2017,RPT Sampling,Canada
+CenterMovDis,early HD,22/03/2017,RPT Sampling,Canada
+CenterMovDis,healthy control,29/03/2017,RPT Sampling,Canada
+UnivBritishCol,early pre-manifest HD,30/03/2017,Screening,Canada
+CenterMovDis,early HD,04/04/2017,Screening,Canada
+CenterMovDis,healthy control,04/04/2017,Screening,Canada
+CenterMovDis,early HD,05/04/2017,Sampling,Canada
+CenterMovDis,healthy control,12/04/2017,Sampling,Canada
+CenterMovDis,early pre-manifest HD,18/04/2017,Screening,Canada
+CenterMovDis,early pre-manifest HD,19/04/2017,Sampling,Canada
+UnivBritishCol,early pre-manifest HD,19/04/2017,Sampling,Canada
+CenterMovDis,healthy control,20/04/2017,RPT Sampling,Canada
+UnivHospUlm,healthy control,28/04/2017,Screening,Germany
+UnivBritishCol,late pre-manifest HD,02/05/2017,Screening,Canada
+CenterMovDis,late pre-manifest HD,03/05/2017,RPT Sampling,Canada
+UnivBritishCol,early HD,15/05/2017,Screening,Canada
+UnivBritishCol,late pre-manifest HD,16/05/2017,Sampling,Canada
+UnivHospUlm,healthy control,16/05/2017,Sampling,Germany
+UnivBritishCol,early HD,17/05/2017,Sampling,Canada
+UnivHospUlm,early pre-manifest HD,22/05/2017,Screening,Germany
+UnivHospUlm,early HD,22/05/2017,Screening,Germany
+CenterMovDis,early HD,24/05/2017,RPT Sampling,Canada
+UnivHospUlm,early pre-manifest HD,30/05/2017,Sampling,Germany
+CenterMovDis,early HD,31/05/2017,Screening,Canada
+CenterMovDis,healthy control,31/05/2017,RPT Sampling,Canada
+CenterMovDis,healthy control,31/05/2017,Screening,Canada
+BirmSolNHSFounTrust,early HD,01/06/2017,Screening,UK
+CenterMovDis,early pre-manifest HD,01/06/2017,RPT Sampling,Canada
+GreatGlasgowHealthBoard,early pre-manifest HD,06/06/2017,Screening,UK
+CenterMovDis,early HD,14/06/2017,Sampling,Canada
+UnivHospUlm,late pre-manifest HD,15/06/2017,Screening,Germany
+UnivHospUlm,healthy control,15/06/2017,Screening,Germany
+UnivHospUlm,healthy control,15/06/2017,RPT Sampling,Germany
+CenterMovDis,healthy control,15/06/2017,Sampling,Canada
+UnivHospUlm,late pre-manifest HD,16/06/2017,Sampling,Germany
+UnivHospUlm,healthy control,16/06/2017,Sampling,Germany
+UnivHospUlm,early HD,19/06/2017,Sampling,Germany
+GreatGlasgowHealthBoard,early HD,20/06/2017,Screening,UK
+CenterMovDis,late pre-manifest HD,27/06/2017,Screen Fail,Canada
+GreatGlasgowHealthBoard,early pre-manifest HD,27/06/2017,Sampling,UK
+BirmSolNHSFounTrust,early HD,28/06/2017,Sampling,UK
+CenterMovDis,early HD,28/06/2017,Screening,Canada
+CenterMovDis,early HD,28/06/2017,Screening,Canada
+BirmSolNHSFounTrust,early pre-manifest HD,29/06/2017,Screening,UK
+BirmSolNHSFounTrust,healthy control,29/06/2017,Screening,UK
+CenterMovDis,early HD,29/06/2017,Partial Sampling,Canada
+GreatGlasgowHealthBoard,early HD,04/07/2017,Sampling,UK
+GreatGlasgowHealthBoard,late pre-manifest HD,04/07/2017,Screening,UK
+LeedsTeachHospTrust,late pre-manifest HD,07/07/2017,Screening,UK
+GreatGlasgowHealthBoard,healthy control,11/07/2017,Screening,UK
+CenterMovDis,early pre-manifest HD,13/07/2017,Screening,Canada
+LeedsTeachHospTrust,late pre-manifest HD,14/07/2017,Screening,UK
+UnivHospUlm,early HD,17/07/2017,RPT Sampling,Germany
+GreatGlasgowHealthBoard,early HD,18/07/2017,Screen Fail,UK
+JohnsHopkinsUniv,early pre-manifest HD,19/07/2017,Screening,USA
+CenterMovDis,healthy control,19/07/2017,RPT Sampling,Canada
+CenterMovDis,early HD,20/07/2017,RPT Sampling,Canada
+LeedsTeachHospTrust,late pre-manifest HD,24/07/2017,Sampling,UK
+GreatGlasgowHealthBoard,late pre-manifest HD,25/07/2017,Sampling,UK
+CenterMovDis,early HD,25/07/2017,Sampling,Canada
+BirmSolNHSFounTrust,early pre-manifest HD,26/07/2017,Sampling,UK
+BirmSolNHSFounTrust,healthy control,26/07/2017,Sampling,UK
+CenterMovDis,early pre-manifest HD,26/07/2017,Sampling,Canada
+StJosefAndElisabethHosp,early HD,28/07/2017,Screen Fail,Germany
+StJosefAndElisabethHosp,late pre-manifest HD,28/07/2017,Screening,Germany
+UnivHospUlm,healthy control,28/07/2017,Screening,Germany
+StJosefAndElisabethHosp,late pre-manifest HD,31/07/2017,Sampling,Germany
+LeedsTeachHospTrust,late pre-manifest HD,31/07/2017,Sampling,UK
+GreatGlasgowHealthBoard,healthy control,01/08/2017,Sampling,UK
+UnivHospUlm,healthy control,01/08/2017,Sampling,Germany
+BirmSolNHSFounTrust,early pre-manifest HD,03/08/2017,Screening,UK
+JohnsHopkinsUniv,healthy control,03/08/2017,Screening,USA
+LeedsTeachHospTrust,early HD,04/08/2017,Screening,UK
+GreatGlasgowHealthBoard,early pre-manifest HD,08/08/2017,RPT Sampling,UK
+LeedsTeachHospTrust,early pre-manifest HD,11/08/2017,Screening,UK
+BirmSolNHSFounTrust,healthy control,14/08/2017,Screening,UK
+BirmSolNHSFounTrust,late pre-manifest HD,14/08/2017,Screening,UK
+GreatGlasgowHealthBoard,early HD,15/08/2017,RPT Sampling,UK
+GreatGlasgowHealthBoard,healthy control,15/08/2017,Screening,UK
+BirmSolNHSFounTrust,early pre-manifest HD,16/08/2017,Sampling,UK
+LeedsTeachHospTrust,early HD,21/08/2017,Sampling,UK
+CenterMovDis,early HD,22/08/2017,Screening,Canada
+CenterMovDis,early HD,23/08/2017,Sampling,Canada
+BirmSolNHSFounTrust,early HD,23/08/2017,RPT Sampling,UK
+BirmSolNHSFounTrust,late pre-manifest HD,25/08/2017,Screening,UK
+BirmSolNHSFounTrust,late pre-manifest HD,30/08/2017,Sampling,UK
+CenterMovDis,early pre-manifest HD,31/08/2017,RPT Sampling,Canada
+LeedsTeachHospTrust,late pre-manifest HD,01/09/2017,Screening,UK
+GreatGlasgowHealthBoard,healthy control,05/09/2017,Sampling,UK
+CenterMovDis,early pre-manifest HD,05/09/2017,Screening,Canada
+GreatGlasgowHealthBoard,early HD,05/09/2017,Screening,UK
+BirmSolNHSFounTrust,early pre-manifest HD,06/09/2017,RPT Sampling,UK
+BirmSolNHSFounTrust,healthy control,06/09/2017,RPT Sampling,UK
+CenterMovDis,early pre-manifest HD,07/09/2017,Sampling,Canada
+StJosefAndElisabethHosp,late pre-manifest HD,11/09/2017,Screening,Germany
+BirmSolNHSFounTrust,early HD,11/09/2017,Screening,UK
+StJosefAndElisabethHosp,healthy control,11/09/2017,Screening,Germany
+GreatGlasgowHealthBoard,early HD,12/09/2017,Sampling,UK
+BirmSolNHSFounTrust,healthy control,13/09/2017,Sampling,UK
+CenterMovDis,early pre-manifest HD,13/09/2017,Screening,Canada
+CenterMovDis,early pre-manifest HD,14/09/2017,Sampling,Canada
+BirmSolNHSFounTrust,late pre-manifest HD,18/09/2017,Sampling,UK
+LeedsTeachHospTrust,early pre-manifest HD,18/09/2017,Sampling,UK
+CenterMovDis,healthy control,19/09/2017,Screening,Canada
+BirmSolNHSFounTrust,early pre-manifest HD,20/09/2017,RPT Sampling,UK
+UnivHospUlm,healthy control,21/09/2017,RPT Sampling,Germany
+LeedsTeachHospTrust,late pre-manifest HD,25/09/2017,Sampling,UK
+JohnsHopkinsUniv,early HD,27/09/2017,Screening,USA
+CenterMovDis,early HD,27/09/2017,RPT Sampling,Canada
+BirmSolNHSFounTrust,early HD,27/09/2017,Sampling,UK
+CenterMovDis,late pre-manifest HD,27/09/2017,Screening,Canada
+CenterMovDis,late pre-manifest HD,27/09/2017,Screening,Canada
+JohnsHopkinsUniv,early HD,28/09/2017,Sampling,USA
+CenterMovDis,late pre-manifest HD,28/09/2017,Sampling,Canada
+CenterMovDis,early HD,03/10/2017,Screening,Canada
+CenterMovDis,early HD,04/10/2017,Sampling,Canada
+CenterMovDis,healthy control,05/10/2017,Sampling,Canada
+BirmSolNHSFounTrust,healthy control,05/10/2017,Screening,UK
+CenterMovDis,late pre-manifest HD,05/10/2017,Screening,Canada
+BirmSolNHSFounTrust,early HD,05/10/2017,Screening,UK
+StJosefAndElisabethHosp,early HD,06/10/2017,Screening,Germany
+StJosefAndElisabethHosp,early HD,09/10/2017,Screening,Germany
+StJosefAndElisabethHosp,healthy control,09/10/2017,Screen Fail,Germany
+BirmSolNHSFounTrust,healthy control,09/10/2017,Sampling,UK
+CenterMovDis,late pre-manifest HD,10/10/2017,Screening,Canada
+CenterMovDis,healthy control,10/10/2017,Screening,Canada
+JohnsHopkinsUniv,late pre-manifest HD,11/10/2017,Screening,USA
+JohnsHopkinsUniv,early HD,11/10/2017,Screening,USA
+BirmSolNHSFounTrust,late pre-manifest HD,11/10/2017,RPT Sampling,UK
+CenterMovDis,healthy control,11/10/2017,Sampling,Canada
+JohnsHopkinsUniv,late pre-manifest HD,12/10/2017,Sampling,USA
+LeedsTeachHospTrust,late pre-manifest HD,13/10/2017,Screening,UK
+LeedsTeachHospTrust,late pre-manifest HD,13/10/2017,Screening,UK
+StJosefAndElisabethHosp,late pre-manifest HD,16/10/2017,Screening,Germany
+UnivHospUlm,early HD,16/10/2017,Screening,Germany
+StJosefAndElisabethHosp,late pre-manifest HD,16/10/2017,Screen Fail,Germany
+StJosefAndElisabethHosp,healthy control,16/10/2017,Screening,Germany
+CenterMovDis,late pre-manifest HD,17/10/2017,Sampling,Canada
+BirmSolNHSFounTrust,healthy control,18/10/2017,RPT Sampling,UK
+JohnsHopkinsUniv,early HD,19/10/2017,Sampling,USA
+LeedsTeachHospTrust,late pre-manifest HD,19/10/2017,Sampling,UK
+CenterMovDis,late pre-manifest HD,19/10/2017,Partial Sampling,Canada
+StJosefAndElisabethHosp,late pre-manifest HD,23/10/2017,Premature End,Germany
+StJosefAndElisabethHosp,early HD,23/10/2017,Sampling,Germany
+CenterMovDis,early pre-manifest HD,24/10/2017,RPT Sampling,Canada
+UnivHospUlm,late pre-manifest HD,25/10/2017,Screening,Germany
+JohnsHopkinsUniv,early HD,25/10/2017,Screening,USA
+CenterMovDis,late pre-manifest HD,25/10/2017,Partial Sampling,Canada
+UnivHospUlm,early HD,25/10/2017,Screening,Germany
+UnivHospUlm,late pre-manifest HD,26/10/2017,Sampling,Germany
+JohnsHopkinsUniv,early HD,26/10/2017,Sampling,USA
+UnivHospUlm,early HD,26/10/2017,Sampling,Germany
+LeedsTeachHospTrust,late pre-manifest HD,30/10/2017,Sampling,UK
+GreatGlasgowHealthBoard,early HD,31/10/2017,RPT Sampling,UK
+GreatGlasgowHealthBoard,early HD,31/10/2017,Screening,UK
+CenterMovDis,healthy control,01/11/2017,Screening,Canada
+LeedsTeachHospTrust,early HD,03/11/2017,Screening,UK
+LeedsTeachHospTrust,early pre-manifest HD,03/11/2017,Screening,UK
+UnivHospUlm,late pre-manifest HD,06/11/2017,Screening,Germany
+StJosefAndElisabethHosp,early HD,07/11/2017,Sampling,Germany
+GreatGlasgowHealthBoard,early HD,07/11/2017,Screening,UK
+GreatGlasgowHealthBoard,early HD,07/11/2017,Sampling,UK
+CenterMovDis,early pre-manifest HD,08/11/2017,RPT Sampling,Canada
+JohnsHopkinsUniv,moderate HD,08/11/2017,Screening,USA
+JohnsHopkinsUniv,moderate HD,09/11/2017,Sampling,USA
+StJosefAndElisabethHosp,late pre-manifest HD,13/11/2017,Sampling,Germany
+StJosefAndElisabethHosp,early HD,13/11/2017,Screening,Germany
+StJosefAndElisabethHosp,healthy control,13/11/2017,Sampling,Germany
+UnivHospUlm,early HD,14/11/2017,Sampling,Germany
+UnivHospUlm,late pre-manifest HD,14/11/2017,Screening,Germany
+CenterMovDis,early HD,14/11/2017,Screening,Canada
+UnivHospUlm,early HD,14/11/2017,Screening,Germany
+CenterMovDis,early HD,15/11/2017,Sampling,Canada
+UnivHospUlm,early HD,15/11/2017,Sampling,Germany
+CenterMovDis,early HD,16/11/2017,Screening,Canada
+CenterMovDis,early HD,16/11/2017,RPT Sampling,Canada
+JohnsHopkinsUniv,healthy control,16/11/2017,Screening,USA
+UnivHospUlm,early HD,16/11/2017,Screening,Germany
+StJosefAndElisabethHosp,early HD,20/11/2017,Screening,Germany
+LeedsTeachHospTrust,early HD,20/11/2017,Sampling,UK
+GreatGlasgowHealthBoard,healthy control,21/11/2017,Screening,UK
+CenterMovDis,early HD,22/11/2017,Screening,Canada
+CenterMovDis,early HD,23/11/2017,Sampling,Canada
+StJosefAndElisabethHosp,early HD,24/11/2017,Sampling,Germany
+UnivHospUlm,late pre-manifest HD,27/11/2017,Sampling,Germany
+CenterMovDis,healthy control,28/11/2017,Sampling,Canada
+CenterMovDis,late pre-manifest HD,28/11/2017,Screening,Canada
+CenterMovDis,late pre-manifest HD,29/11/2017,Screening,Canada
+CenterMovDis,late pre-manifest HD,29/11/2017,Sampling,Canada
+JohnsHopkinsUniv,healthy control,30/11/2017,Sampling,USA
+StJosefAndElisabethHosp,early HD,30/11/2017,Partial Sampling,Germany
+CenterMovDis,healthy control,30/11/2017,RPT Sampling,Canada
+LeedsTeachHospTrust,early pre-manifest HD,30/11/2017,Sampling,UK
+LeedsTeachHospTrust,early HD,01/12/2017,Screening,UK
+UnivHospUlm,late pre-manifest HD,04/12/2017,Sampling,Germany
+GreatGlasgowHealthBoard,early HD,05/12/2017,Sampling,UK
+CenterMovDis,late pre-manifest HD,05/12/2017,RPT Sampling,Canada
+JohnsHopkinsUniv,healthy control,06/12/2017,Screen Fail,USA
+JohnsHopkinsUniv,early HD,06/12/2017,Screening,USA
+LeedsTeachHospTrust,early HD,07/12/2017,Premature End,UK
+JohnsHopkinsUniv,early HD,08/12/2017,Sampling,USA
+JohnsHopkinsUniv,early HD,08/12/2017,Screening,USA
+StJosefAndElisabethHosp,advanced HD,12/12/2017,Screening,Germany
+GreatGlasgowHealthBoard,healthy control,12/12/2017,Sampling,UK
+StJosefAndElisabethHosp,early HD,13/12/2017,RPT Sampling,Germany
+CenterMovDis,early HD,13/12/2017,RPT Sampling,Canada
+CenterMovDis,healthy control,14/12/2017,Screening,Canada
+CenterMovDis,early HD,14/12/2017,Sampling,Canada
+CenterMovDis,late pre-manifest HD,14/12/2017,Screening,Canada
+StJosefAndElisabethHosp,advanced HD,19/12/2017,Sampling,Germany
+GreatGlasgowHealthBoard,early HD,19/12/2017,RPT Sampling,UK
+UnivHospUlm,early HD,20/12/2017,Screening,Germany
+CenterMovDis,late pre-manifest HD,21/12/2017,Sampling,Canada
+UnivHospUlm,early HD,21/12/2017,Partial Sampling,Germany
+CenterMovDis,late pre-manifest HD,21/12/2017,Screen Fail,Canada
+CenterMovDis,healthy control,21/12/2017,Screening,Canada
+JohnsHopkinsUniv,early HD,21/12/2017,Sampling,USA
+UnivHospUlm,early HD,27/12/2017,Premature End,Germany
+JohnsHopkinsUniv,early HD,03/01/2018,Screening,USA
+JohnsHopkinsUniv,early HD,04/01/2018,Sampling,USA
+BirmSolNHSFounTrust,late pre-manifest HD,04/01/2018,Screening,UK
+BirmSolNHSFounTrust,early HD,04/01/2018,Screening,UK
+StJosefAndElisabethHosp,early HD,05/01/2018,RPT Sampling,Germany
+LeedsTeachHospTrust,late pre-manifest HD,05/01/2018,Screening,UK
+LeedsTeachHospTrust,late pre-manifest HD,05/01/2018,Screening,UK
+UnivHospUlm,late pre-manifest HD,08/01/2018,RPT Sampling,Germany
+BirmSolNHSFounTrust,late pre-manifest HD,09/01/2018,Sampling,UK
+UnivHospUlm,late pre-manifest HD,09/01/2018,RPT Sampling,Germany
+JohnsHopkinsUniv,early HD,10/01/2018,Screening,USA
+UnivHospUlm,early HD,10/01/2018,Screening,Germany
+CenterMovDis,late pre-manifest HD,10/01/2018,Sampling,Canada
+BirmSolNHSFounTrust,moderate HD,11/01/2018,Screening,UK
+CenterMovDis,healthy control,11/01/2018,Sampling,Canada
+JohnsHopkinsUniv,early HD,11/01/2018,Sampling,USA
+CenterMovDis,healthy control,11/01/2018,Screening,Canada
+UnivHospUlm,early HD,11/01/2018,Sampling,Germany
+JohnsHopkinsUniv,late pre-manifest HD,12/01/2018,Screening,USA
+BirmSolNHSFounTrust,early HD,15/01/2018,Premature End,UK
+CenterMovDis,late pre-manifest HD,17/01/2018,Screening,Canada
+CenterMovDis,healthy control,17/01/2018,Sampling,Canada
+JohnsHopkinsUniv,early pre-manifest HD,17/01/2018,Screening,USA
+JohnsHopkinsUniv,late pre-manifest HD,18/01/2018,Sampling,USA
+BirmSolNHSFounTrust,moderate HD,22/01/2018,Sampling,UK
+LeedsTeachHospTrust,late pre-manifest HD,22/01/2018,Sampling,UK
+CenterMovDis,healthy control,23/01/2018,RPT Sampling,Canada
+GreatGlasgowHealthBoard,moderate HD,23/01/2018,Screening,UK
+CenterMovDis,early pre-manifest HD,23/01/2018,Screening,Canada
+CenterMovDis,healthy control,23/01/2018,Screening,Canada
+WakeForestUniv,early HD,24/01/2018,Screening,USA
+CenterMovDis,healthy control,24/01/2018,Sampling,Canada
+CenterMovDis,early pre-manifest HD,25/01/2018,Sampling,Canada
+JohnsHopkinsUniv,early pre-manifest HD,25/01/2018,Sampling,USA
+LeedsTeachHospTrust,late pre-manifest HD,29/01/2018,Sampling,UK
+GreatGlasgowHealthBoard,healthy control,30/01/2018,RPT Sampling,UK
+CenterMovDis,late pre-manifest HD,30/01/2018,Sampling,Canada
+JohnsHopkinsUniv,late pre-manifest HD,31/01/2018,Screening,USA
+WakeForestUniv,early HD,31/01/2018,Sampling,USA
+CenterMovDis,early HD,31/01/2018,RPT Sampling,Canada
+JohnsHopkinsUniv,late pre-manifest HD,01/02/2018,Sampling,USA
+CenterMovDis,healthy control,01/02/2018,Sampling,Canada
+GeorgeHuntingtonInst,early HD,01/02/2018,Screening,Germany
+GeorgeHuntingtonInst,healthy control,01/02/2018,Screening,Germany
+GeorgeHuntingtonInst,healthy control,02/02/2018,Screening,Germany
+CenterMovDis,healthy control,06/02/2018,Screening,Canada
+GreatGlasgowHealthBoard,healthy control,06/02/2018,Screening,UK
+GeorgeHuntingtonInst,early HD,07/02/2018,Screening,Germany
+CenterMovDis,healthy control,07/02/2018,Sampling,Canada
+JohnsHopkinsUniv,moderate HD,07/02/2018,Screening,USA
+StJosefAndElisabethHosp,late pre-manifest HD,08/02/2018,Screening,Germany
+JohnsHopkinsUniv,moderate HD,08/02/2018,Sampling,USA
+JohnsHopkinsUniv,early HD,09/02/2018,RPT Sampling,USA
+LeedsTeachHospTrust,early pre-manifest HD,09/02/2018,Screening,UK
+GeorgeHuntingtonInst,early HD,13/02/2018,Sampling,Germany
+GreatGlasgowHealthBoard,moderate HD,13/02/2018,Premature End,UK
+CenterMovDis,early HD,13/02/2018,Screening,Canada
+CenterMovDis,healthy control,13/02/2018,Screening,Canada
+JohnsHopkinsUniv,late pre-manifest HD,14/02/2018,Screening,USA
+GeorgeHuntingtonInst,healthy control,14/02/2018,Sampling,Germany
+CenterMovDis,late pre-manifest HD,14/02/2018,RPT Sampling,Canada
+JohnsHopkinsUniv,late pre-manifest HD,15/02/2018,Sampling,USA
+GreatGlasgowHealthBoard,late pre-manifest HD,15/02/2018,Screening,UK
+StJosefAndElisabethHosp,early pre-manifest HD,15/02/2018,Screening,Germany
+CenterMovDis,late pre-manifest HD,15/02/2018,RPT Sampling,Canada
+GeorgeHuntingtonInst,early HD,15/02/2018,Screening,Germany
+StJosefAndElisabethHosp,early pre-manifest HD,16/02/2018,Sampling,Germany
+StJosefAndElisabethHosp,late pre-manifest HD,19/02/2018,Sampling,Germany
+GreatGlasgowHealthBoard,late pre-manifest HD,20/02/2018,Sampling,UK
+GreatGlasgowHealthBoard,late pre-manifest HD,20/02/2018,Screen Fail,UK
+JohnsHopkinsUniv,early HD,21/02/2018,Screening,USA
+GeorgeHuntingtonInst,healthy control,21/02/2018,Screening,Germany
+JohnsHopkinsUniv,early HD,22/02/2018,Sampling,USA
+GeorgeHuntingtonInst,moderate HD,22/02/2018,Screening,Germany
+LeedsTeachHospTrust,early pre-manifest HD,22/02/2018,Sampling,UK
+GeorgeHuntingtonInst,early HD,26/02/2018,Screening,Germany
+GeorgeHuntingtonInst,advanced HD,26/02/2018,Screening,Germany
+GeorgeHuntingtonInst,healthy control,26/02/2018,Screening,Germany
+GeorgeHuntingtonInst,early HD,27/02/2018,Sampling,Germany
+GeorgeHuntingtonInst,healthy control,27/02/2018,Sampling,Germany
+GreatGlasgowHealthBoard,healthy control,27/02/2018,Partial Sampling,UK
+BirmSolNHSFounTrust,late pre-manifest HD,05/03/2018,RPT Sampling,UK
+GreatGlasgowHealthBoard,late pre-manifest HD,06/03/2018,Screen Fail,UK
+GeorgeHuntingtonInst,early HD,06/03/2018,Screening,Germany
+CenterMovDis,healthy control,06/03/2018,Sampling,Canada
+JohnsHopkinsUniv,early HD,07/03/2018,Screening,USA
+CenterMovDis,early HD,07/03/2018,Sampling,Canada
+GeorgeHuntingtonInst,advanced HD,07/03/2018,Screening,Germany
+JohnsHopkinsUniv,early HD,08/03/2018,Sampling,USA
+GeorgeHuntingtonInst,moderate HD,08/03/2018,Sampling,Germany
+LeedsTeachHospTrust,early pre-manifest HD,09/03/2018,Screening,UK
+GeorgeHuntingtonInst,early pre-manifest HD,09/03/2018,Screening,Germany
+LeedsTeachHospTrust,early HD,09/03/2018,Screening,UK
+JohnsHopkinsUniv,late pre-manifest HD,09/03/2018,Partial Sampling,USA
+GeorgeHuntingtonInst,early HD,12/03/2018,Screening,Germany
+GeorgeHuntingtonInst,healthy control,12/03/2018,Screening,Germany
+GeorgeHuntingtonInst,healthy control,12/03/2018,Sampling,Germany
+GeorgeHuntingtonInst,early HD,12/03/2018,Screening,Germany
+BirmSolNHSFounTrust,late pre-manifest HD,12/03/2018,Screening,UK
+JohnsHopkinsUniv,early HD,14/03/2018,Screening,USA
+CenterMovDis,early pre-manifest HD,14/03/2018,Screening,Canada
+GeorgeHuntingtonInst,early HD,14/03/2018,Sampling,Germany
+CenterMovDis,healthy control,14/03/2018,RPT Sampling,Canada
+CenterMovDis,healthy control,15/03/2018,RPT Sampling,Canada
+CenterMovDis,late pre-manifest HD,15/03/2018,Screening,Canada
+JohnsHopkinsUniv,early HD,15/03/2018,Sampling,USA
+CenterMovDis,healthy control,15/03/2018,Screening,Canada
+GeorgeHuntingtonInst,advanced HD,15/03/2018,Sampling,Germany
+WakeForestUniv,healthy control,16/03/2018,Screening,USA
+GeorgeHuntingtonInst,healthy control,16/03/2018,Screening,Germany
+GeorgeHuntingtonInst,advanced HD,16/03/2018,Screening,Germany
+StJosefAndElisabethHosp,early pre-manifest HD,19/03/2018,Screening,Germany
+GeorgeHuntingtonInst,early HD,19/03/2018,Sampling,Germany
+StJosefAndElisabethHosp,early pre-manifest HD,19/03/2018,Screening,Germany
+LeedsTeachHospTrust,early HD,19/03/2018,Sampling,UK
+StJosefAndElisabethHosp,healthy control,19/03/2018,Screening,Germany
+GeorgeHuntingtonInst,advanced HD,19/03/2018,Screening,Germany
+LeedsTeachHospTrust,early pre-manifest HD,20/03/2018,Premature End,UK
+GeorgeHuntingtonInst,early HD,20/03/2018,Screen Fail,Germany
+JohnsHopkinsUniv,late pre-manifest HD,20/03/2018,RPT Sampling,USA
+CenterMovDis,late pre-manifest HD,20/03/2018,RPT Sampling,Canada
+GeorgeHuntingtonInst,moderate HD,21/03/2018,Screening,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,21/03/2018,Screening,Germany
+CenterMovDis,early pre-manifest HD,21/03/2018,Sampling,Canada
+GeorgeHuntingtonInst,advanced HD,21/03/2018,Sampling,Germany
+CenterMovDis,late pre-manifest HD,22/03/2018,Sampling,Canada
+GeorgeHuntingtonInst,healthy control,22/03/2018,Screen Fail,Germany
+JohnsHopkinsUniv,early pre-manifest HD,22/03/2018,RPT Sampling,USA
+GeorgeHuntingtonInst,advanced HD,23/03/2018,Sampling,Germany
+GeorgeHuntingtonInst,healthy control,23/03/2018,Sampling,Germany
+GeorgeHuntingtonInst,early HD,26/03/2018,Sampling,Germany
+GeorgeHuntingtonInst,healthy control,26/03/2018,Premature End,Germany
+JohnsHopkinsUniv,early HD,27/03/2018,Screening,USA
+GreatGlasgowHealthBoard,late pre-manifest HD,27/03/2018,RPT Sampling,UK
+GeorgeHuntingtonInst,early pre-manifest HD,27/03/2018,Sampling,Germany
+BirmSolNHSFounTrust,early HD,27/03/2018,Screening,UK
+CenterMovDis,early HD,27/03/2018,Screening,Canada
+GeorgeHuntingtonInst,early HD,27/03/2018,Screen Fail,Germany
+BirmSolNHSFounTrust,late pre-manifest HD,27/03/2018,Sampling,UK
+JohnsHopkinsUniv,early pre-manifest HD,28/03/2018,Screening,USA
+JohnsHopkinsUniv,early pre-manifest HD,29/03/2018,Sampling,USA
+CenterMovDis,healthy control,29/03/2018,Sampling,Canada
+GeorgeHuntingtonInst,early HD,03/04/2018,Screening,Germany
+JohnsHopkinsUniv,early pre-manifest HD,04/04/2018,Premature End,USA
+GeorgeHuntingtonInst,moderate HD,04/04/2018,Screening,Germany
+JohnsHopkinsUniv,early HD,04/04/2018,Screening,USA
+GeorgeHuntingtonInst,early HD,05/04/2018,RPT Sampling,Germany
+JohnsHopkinsUniv,early HD,05/04/2018,Sampling,USA
+GeorgeHuntingtonInst,early HD,05/04/2018,Screening,Germany
+BirmSolNHSFounTrust,early HD,06/04/2018,Screening,UK
+JohnsHopkinsUniv,healthy control,06/04/2018,Premature End,USA
+BirmSolNHSFounTrust,early HD,09/04/2018,Screen Fail,UK
+GeorgeHuntingtonInst,early HD,09/04/2018,Sampling,Germany
+GeorgeHuntingtonInst,advanced HD,09/04/2018,Sampling,Germany
+GeorgeHuntingtonInst,early HD,10/04/2018,Sampling,Germany
+GeorgeHuntingtonInst,healthy control,10/04/2018,Sampling,Germany
+UnivBritishCol,early pre-manifest HD,10/04/2018,Screening,Canada
+CenterMovDis,early HD,10/04/2018,Screening,Canada
+GreatGlasgowHealthBoard,healthy control,10/04/2018,Screening,UK
+UnivHospErlangen,early pre-manifest HD,10/04/2018,Screening,Germany
+CenterMovDis,healthy control,10/04/2018,Screening,Canada
+CenterMovDis,early HD,11/04/2018,Screening,Canada
+GeorgeHuntingtonInst,moderate HD,11/04/2018,Sampling,Germany
+CenterMovDis,early HD,11/04/2018,RPT Sampling,Canada
+GeorgeHuntingtonInst,early pre-manifest HD,11/04/2018,Sampling,Germany
+GeorgeHuntingtonInst,early HD,12/04/2018,Screening,Germany
+WakeForestUniv,healthy control,12/04/2018,Sampling,USA
+CenterMovDis,early HD,12/04/2018,Sampling,Canada
+GeorgeHuntingtonInst,healthy control,12/04/2018,Screening,Germany
+StJosefAndElisabethHosp,early pre-manifest HD,13/04/2018,Sampling,Germany
+StJosefAndElisabethHosp,healthy control,13/04/2018,Sampling,Germany
+LeedsTeachHospTrust,early HD,13/04/2018,Screening,UK
+StJosefAndElisabethHosp,early pre-manifest HD,16/04/2018,Sampling,Germany
+GeorgeHuntingtonInst,healthy control,16/04/2018,RPT Sampling,Germany
+UnivHospUlm,late pre-manifest HD,16/04/2018,Screening,Germany
+GeorgeHuntingtonInst,moderate HD,17/04/2018,RPT Sampling,Germany
+GreatGlasgowHealthBoard,healthy control,17/04/2018,Screening,UK
+BirmSolNHSFounTrust,early HD,18/04/2018,Sampling,UK
+UnivHospUlm,late pre-manifest HD,18/04/2018,Sampling,Germany
+CenterMovDis,healthy control,18/04/2018,RPT Sampling,Canada
+CenterMovDis,early HD,19/04/2018,Sampling,Canada
+GeorgeHuntingtonInst,healthy control,19/04/2018,RPT Sampling,Germany
+GeorgeHuntingtonInst,early HD,20/04/2018,Sampling,Germany
+GeorgeHuntingtonInst,early HD,20/04/2018,RPT Sampling,Germany
+GeorgeHuntingtonInst,early HD,23/04/2018,RPT Sampling,Germany
+GeorgeHuntingtonInst,early HD,23/04/2018,Screening,Germany
+GeorgeHuntingtonInst,moderate HD,23/04/2018,Premature End,Germany
+GreatGlasgowHealthBoard,early HD,24/04/2018,Screening,UK
+BirmSolNHSFounTrust,early HD,24/04/2018,Partial Sampling,UK
+UnivHospErlangen,early pre-manifest HD,24/04/2018,Sampling,Germany
+UnivHospUlm,advanced HD,25/04/2018,Screening,Germany
+GeorgeHuntingtonInst,advanced HD,25/04/2018,RPT Sampling,Germany
+JohnsHopkinsUniv,early HD,26/04/2018,Sampling,USA
+GeorgeHuntingtonInst,early HD,26/04/2018,RPT Sampling,Germany
+CenterMovDis,healthy control,26/04/2018,Premature End,Canada
+StJosefAndElisabethHosp,early HD,27/04/2018,Screening,Germany
+StJosefAndElisabethHosp,early HD,30/04/2018,Sampling,Germany
+LeedsTeachHospTrust,early HD,30/04/2018,Sampling,UK
+CenterMovDis,early pre-manifest HD,01/05/2018,RPT Sampling,Canada
+GreatGlasgowHealthBoard,healthy control,01/05/2018,Sampling,UK
+JohnsHopkinsUniv,early HD,02/05/2018,Screening,USA
+CenterMovDis,late pre-manifest HD,02/05/2018,Screening,Canada
+JohnsHopkinsUniv,early HD,03/05/2018,Sampling,USA
+GeorgeHuntingtonInst,early HD,03/05/2018,Sampling,Germany
+CenterMovDis,late pre-manifest HD,03/05/2018,Sampling,Canada
+LeedsTeachHospTrust,late pre-manifest HD,04/05/2018,Screening,UK
+LeedsTeachHospTrust,late pre-manifest HD,04/05/2018,Screening,UK
+StJosefAndElisabethHosp,early pre-manifest HD,04/05/2018,Screening,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,07/05/2018,RPT Sampling,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,07/05/2018,Screening,Germany
+UnivBritishCol,early pre-manifest HD,07/05/2018,Sampling,Canada
+GeorgeHuntingtonInst,early HD,08/05/2018,Sampling,Germany
+JohnsHopkinsUniv,early HD,08/05/2018,RPT Sampling,USA
+GeorgeHuntingtonInst,healthy control,08/05/2018,Sampling,Germany
+GreatGlasgowHealthBoard,healthy control,08/05/2018,Sampling,UK
+CenterMovDis,healthy control,09/05/2018,RPT Sampling,Canada
+GeorgeHuntingtonInst,advanced HD,09/05/2018,RPT Sampling,Germany
+UnivHospUlm,advanced HD,09/05/2018,Sampling,Germany
+GeorgeHuntingtonInst,early HD,09/05/2018,RPT Sampling,Germany
+JohnsHopkinsUniv,late pre-manifest HD,09/05/2018,Screening,USA
+CenterMovDis,late pre-manifest HD,10/05/2018,Screening,Canada
+CenterMovDis,late pre-manifest HD,10/05/2018,RPT Sampling,Canada
+CenterMovDis,healthy control,10/05/2018,Screen Fail,Canada
+JohnsHopkinsUniv,late pre-manifest HD,10/05/2018,Sampling,USA
+StJosefAndElisabethHosp,early pre-manifest HD,11/05/2018,Sampling,Germany
+LeedsTeachHospTrust,late pre-manifest HD,14/05/2018,Sampling,UK
+StJosefAndElisabethHosp,early HD,14/05/2018,Screening,Germany
+GeorgeHuntingtonInst,early HD,14/05/2018,RPT Sampling,Germany
+WakeForestUniv,late pre-manifest HD,14/05/2018,Screening,USA
+GeorgeHuntingtonInst,advanced HD,15/05/2018,RPT Sampling,Germany
+CenterMovDis,late pre-manifest HD,15/05/2018,Sampling,Canada
+CenterMovDis,early HD,15/05/2018,Screening,Canada
+GeorgeHuntingtonInst,healthy control,15/05/2018,RPT Sampling,Germany
+StJosefAndElisabethHosp,early pre-manifest HD,15/05/2018,Screening,Germany
+CenterMovDis,early HD,16/05/2018,Sampling,Canada
+GeorgeHuntingtonInst,early HD,16/05/2018,Sampling,Germany
+JohnsHopkinsUniv,early HD,16/05/2018,Screening,USA
+GeorgeHuntingtonInst,early HD,17/05/2018,RPT Sampling,Germany
+JohnsHopkinsUniv,early HD,17/05/2018,Sampling,USA
+GeorgeHuntingtonInst,healthy control,18/05/2018,Screening,Germany
+GeorgeHuntingtonInst,moderate HD,18/05/2018,Screening,Germany
+BirmSolNHSFounTrust,late pre-manifest HD,21/05/2018,RPT Sampling,UK
+GreatGlasgowHealthBoard,early HD,22/05/2018,Sampling,UK
+WakeForestUniv,late pre-manifest HD,24/05/2018,Sampling,USA
+GeorgeHuntingtonInst,advanced HD,28/05/2018,RPT Sampling,Germany
+UnivHospErlangen,late pre-manifest HD,29/05/2018,Screening,Germany
+LeedsTeachHospTrust,early HD,01/06/2018,Screening,UK
+LeedsTeachHospTrust,early HD,01/06/2018,Screen Fail,UK
+LeedsTeachHospTrust,late pre-manifest HD,04/06/2018,Sampling,UK
+StJosefAndElisabethHosp,early HD,04/06/2018,Sampling,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,04/06/2018,Sampling,Germany
+GeorgeHuntingtonInst,late pre-manifest HD,04/06/2018,Screening,Germany
+GeorgeHuntingtonInst,early HD,04/06/2018,Screening,Germany
+StJosefAndElisabethHosp,late pre-manifest HD,04/06/2018,Screening,Germany
+JohnsHopkinsUniv,early HD,05/06/2018,Screening,USA
+StJosefAndElisabethHosp,early pre-manifest HD,06/06/2018,Screen Fail,Germany
+GeorgeHuntingtonInst,moderate HD,06/06/2018,RPT Sampling,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,06/06/2018,RPT Sampling,Germany
+StJosefAndElisabethHosp,late pre-manifest HD,06/06/2018,Screening,Germany
+CenterMovDis,early HD,12/06/2018,Screening,Canada
+StJosefAndElisabethHosp,early pre-manifest HD,12/06/2018,Sampling,Germany
+GeorgeHuntingtonInst,moderate HD,12/06/2018,Screening,Germany
+StJosefAndElisabethHosp,late pre-manifest HD,13/06/2018,Screening,Germany
+CenterMovDis,early HD,13/06/2018,Sampling,Canada
+UnivTexasHlthCntrHous,late pre-manifest HD,13/06/2018,Screening,USA
+UnivHospUlm,late pre-manifest HD,14/06/2018,RPT Sampling,Germany
+UnivTexasHlthCntrHous,early pre-manifest HD,15/06/2018,Screening,USA
+StJosefAndElisabethHosp,early pre-manifest HD,15/06/2018,Screen Fail,Germany
+GeorgeHuntingtonInst,healthy control,15/06/2018,Sampling,Germany
+GeorgeHuntingtonInst,moderate HD,15/06/2018,Sampling,Germany
+StJosefAndElisabethHosp,late pre-manifest HD,15/06/2018,Sampling,Germany
+GeorgeHuntingtonInst,advanced HD,18/06/2018,Screening,Germany
+StJosefAndElisabethHosp,late pre-manifest HD,18/06/2018,Screening,Germany
+GeorgeHuntingtonInst,early HD,18/06/2018,Sampling,Germany
+UnivHospUlm,late pre-manifest HD,19/06/2018,Screening,Germany
+StJosefAndElisabethHosp,early HD,20/06/2018,Screening,Germany
+UnivHospUlm,late pre-manifest HD,20/06/2018,Sampling,Germany
+GeorgeHuntingtonInst,moderate HD,20/06/2018,Sampling,Germany
+BirmSolNHSFounTrust,early HD,21/06/2018,Screening,UK
+JohnsHopkinsUniv,early HD,21/06/2018,Sampling,USA
+CenterMovDis,late pre-manifest HD,21/06/2018,Partial Sampling,Canada
+BirmSolNHSFounTrust,healthy control,21/06/2018,Screening,UK
+GeorgeHuntingtonInst,late pre-manifest HD,22/06/2018,Sampling,Germany
+GeorgeHuntingtonInst,late pre-manifest HD,22/06/2018,Screening,Germany
+StJosefAndElisabethHosp,late pre-manifest HD,22/06/2018,Sampling,Germany
+GeorgeHuntingtonInst,advanced HD,22/06/2018,Screening,Germany
+GeorgeHuntingtonInst,advanced HD,25/06/2018,Screen Fail,Germany
+LeedsTeachHospTrust,early HD,25/06/2018,Sampling,UK
+StJosefAndElisabethHosp,early HD,25/06/2018,Screening,Germany
+GeorgeHuntingtonInst,healthy control,25/06/2018,Screening,Germany
+GeorgeHuntingtonInst,healthy control,25/06/2018,Screening,Germany
+CenterMovDis,early pre-manifest HD,26/06/2018,Screening,Canada
+UnivHospErlangen,late pre-manifest HD,26/06/2018,Sampling,Germany
+GeorgeHuntingtonInst,healthy control,26/06/2018,RPT Sampling,Germany
+UnivBritishCol,early HD,26/06/2018,Screening,Canada
+UnivHospErlangen,early HD,26/06/2018,Screening,Germany
+GeorgeHuntingtonInst,healthy control,26/06/2018,Screening,Germany
+JohnsHopkinsUniv,early HD,27/06/2018,Screening,USA
+CenterMovDis,early HD,27/06/2018,Screening,Canada
+JohnsHopkinsUniv,early HD,28/06/2018,Sampling,USA
+CenterMovDis,early HD,28/06/2018,Sampling,Canada
+StJosefAndElisabethHosp,healthy control,28/06/2018,Premature End,Germany
+GeorgeHuntingtonInst,healthy control,03/07/2018,Sampling,Germany
+StJosefAndElisabethHosp,early HD,04/07/2018,Sampling,Germany
+StJosefAndElisabethHosp,late pre-manifest HD,04/07/2018,Screening,Germany
+GeorgeHuntingtonInst,healthy control,04/07/2018,Sampling,Germany
+CenterMovDis,early pre-manifest HD,05/07/2018,Sampling,Canada
+LeedsTeachHospTrust,healthy control,06/07/2018,Screening,UK
+GeorgeHuntingtonInst,advanced HD,06/07/2018,Screening,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,06/07/2018,RPT Sampling,Germany
+UnivTexasHlthCntrHous,late pre-manifest HD,06/07/2018,Sampling,USA
+GeorgeHuntingtonInst,healthy control,06/07/2018,Screening,Germany
+GeorgeHuntingtonInst,healthy control,09/07/2018,Screening,Germany
+JohnsHopkinsUniv,moderate HD,09/07/2018,Screening,USA
+GeorgeHuntingtonInst,healthy control,09/07/2018,Sampling,Germany
+BirmSolNHSFounTrust,healthy control,09/07/2018,Sampling,UK
+StJosefAndElisabethHosp,late pre-manifest HD,10/07/2018,Sampling,Germany
+CenterMovDis,late pre-manifest HD,10/07/2018,Partial Sampling,Canada
+GeorgeHuntingtonInst,late pre-manifest HD,10/07/2018,Screening,Germany
+UnivHospErlangen,early HD,10/07/2018,Sampling,Germany
+GeorgeHuntingtonInst,advanced HD,10/07/2018,Sampling,Germany
+StJosefAndElisabethHosp,late pre-manifest HD,11/07/2018,Sampling,Germany
+LeedsTeachHospTrust,healthy control,12/07/2018,Sampling,UK
+GeorgeHuntingtonInst,advanced HD,12/07/2018,Sampling,Germany
+GeorgeHuntingtonInst,healthy control,12/07/2018,Sampling,Germany
+UnivTexasHlthCntrHous,early pre-manifest HD,13/07/2018,Sampling,USA
+GeorgeHuntingtonInst,healthy control,13/07/2018,Sampling,Germany
+GeorgeHuntingtonInst,late pre-manifest HD,13/07/2018,Sampling,Germany
+GeorgeHuntingtonInst,moderate HD,13/07/2018,RPT Sampling,Germany
+StJosefAndElisabethHosp,early HD,16/07/2018,Partial Sampling,Germany
+GeorgeHuntingtonInst,advanced HD,16/07/2018,Sampling,Germany
+BirmSolNHSFounTrust,early HD,18/07/2018,Sampling,UK
+BirmSolNHSFounTrust,healthy control,18/07/2018,Screening,UK
+JohnsHopkinsUniv,early HD,18/07/2018,Screening,USA
+BirmSolNHSFounTrust,early HD,18/07/2018,Screening,UK
+GeorgeHuntingtonInst,late pre-manifest HD,19/07/2018,Sampling,Germany
+JohnsHopkinsUniv,early HD,19/07/2018,Sampling,USA
+UnivBritishCol,healthy control,19/07/2018,Screen Fail,Canada
+UnivBritishCol,early HD,19/07/2018,Screening,Canada
+GeorgeHuntingtonInst,moderate HD,20/07/2018,RPT Sampling,Germany
+StJosefAndElisabethHosp,early HD,23/07/2018,Screening,Germany
+StJosefAndElisabethHosp,healthy control,23/07/2018,Screening,Germany
+StJosefAndElisabethHosp,healthy control,23/07/2018,Screening,Germany
+UnivHospUlm,late pre-manifest HD,24/07/2018,RPT Sampling,Germany
+UnivBritishCol,early HD,24/07/2018,Sampling,Canada
+UnivBritishCol,early HD,25/07/2018,Sampling,Canada
+BirmSolNHSFounTrust,early HD,26/07/2018,Premature End,UK
+BirmSolNHSFounTrust,early HD,27/07/2018,Screening,UK
+JohnsHopkinsUniv,moderate HD,27/07/2018,Screening,USA
+StJosefAndElisabethHosp,late pre-manifest HD,30/07/2018,Partial Sampling,Germany
+StJosefAndElisabethHosp,late pre-manifest HD,31/07/2018,Sampling,Germany
+CenterMovDis,early HD,01/08/2018,Screening,Canada
+JohnsHopkinsUniv,moderate HD,02/08/2018,Sampling,USA
+LeedsTeachHospTrust,late pre-manifest HD,03/08/2018,Screening,UK
+GeorgeHuntingtonInst,early pre-manifest HD,06/08/2018,Screening,Germany
+UnivHospUlm,early HD,07/08/2018,Screening,Germany
+UnivHospUlm,healthy control,07/08/2018,Screening,Germany
+UnivHospErlangen,early pre-manifest HD,07/08/2018,Screening,Germany
+UnivHospUlm,early HD,08/08/2018,Sampling,Germany
+UnivHospUlm,healthy control,08/08/2018,Sampling,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,09/08/2018,Screening,Germany
+JohnsHopkinsUniv,moderate HD,10/08/2018,Sampling,USA
+LeedsTeachHospTrust,healthy control,10/08/2018,Screening,UK
+UnivHospErlangen,early pre-manifest HD,14/08/2018,Sampling,Germany
+CenterMovDis,early HD,15/08/2018,Screening,Canada
+BirmSolNHSFounTrust,early HD,15/08/2018,Sampling,UK
+StJosefAndElisabethHosp,healthy control,15/08/2018,Sampling,Germany
+BirmSolNHSFounTrust,early HD,16/08/2018,Sampling,UK
+GeorgeHuntingtonInst,early pre-manifest HD,17/08/2018,Sampling,Germany
+StJosefAndElisabethHosp,early HD,17/08/2018,Sampling,Germany
+JohnsHopkinsUniv,early HD,17/08/2018,Screening,USA
+StJosefAndElisabethHosp,healthy control,20/08/2018,Sampling,Germany
+LeedsTeachHospTrust,late pre-manifest HD,20/08/2018,Sampling,UK
+GeorgeHuntingtonInst,late pre-manifest HD,21/08/2018,Screening,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,21/08/2018,Screening,Germany
+GeorgeHuntingtonInst,late pre-manifest HD,21/08/2018,Screening,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,21/08/2018,Screening,Germany
+UnivHospUlm,early HD,21/08/2018,Screening,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,21/08/2018,Screen Fail,Germany
+BirmSolNHSFounTrust,healthy control,22/08/2018,Sampling,UK
+UnivHospUlm,early HD,22/08/2018,Sampling,Germany
+GeorgeHuntingtonInst,early HD,23/08/2018,Screening,Germany
+UnivTexasHlthCntrHous,early pre-manifest HD,24/08/2018,RPT Sampling,USA
+GeorgeHuntingtonInst,healthy control,24/08/2018,Screening,Germany
+GeorgeHuntingtonInst,early HD,27/08/2018,Premature End,Germany
+CenterMovDis,early HD,28/08/2018,Sampling,Canada
+CenterMovDis,early HD,28/08/2018,Screening,Canada
+CenterMovDis,early HD,29/08/2018,Sampling,Canada
+LeedsTeachHospTrust,healthy control,30/08/2018,Sampling,UK
+GeorgeHuntingtonInst,healthy control,31/08/2018,Sampling,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,03/09/2018,Sampling,Germany
+GeorgeHuntingtonInst,advanced HD,04/09/2018,Partial Sampling,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,04/09/2018,Sampling,Germany
+CenterMovDis,late pre-manifest HD,04/09/2018,Screening,Canada
+GeorgeHuntingtonInst,early pre-manifest HD,04/09/2018,Sampling,Germany
+GreatGlasgowHealthBoard,late pre-manifest HD,04/09/2018,Screening,UK
+JohnsHopkinsUniv,early HD,05/09/2018,Screening,USA
+GeorgeHuntingtonInst,late pre-manifest HD,06/09/2018,Sampling,Germany
+GeorgeHuntingtonInst,late pre-manifest HD,06/09/2018,Sampling,Germany
+JohnsHopkinsUniv,early HD,06/09/2018,Sampling,USA
+UnivCambridge,late pre-manifest HD,10/09/2018,Screening,UK
+UnivTexasHlthCntrHous,early HD,10/09/2018,Screening,USA
+JohnsHopkinsUniv,early HD,11/09/2018,Partial Sampling,USA
+GreatGlasgowHealthBoard,late pre-manifest HD,11/09/2018,Partial Sampling,UK
+CenterMovDis,late pre-manifest HD,12/09/2018,Sampling,Canada
+StJosefAndElisabethHosp,late pre-manifest HD,12/09/2018,Screening,Germany
+GeorgeHuntingtonInst,early HD,12/09/2018,Screening,Germany
+GeorgeHuntingtonInst,healthy control,12/09/2018,Screening,Germany
+JohnsHopkinsUniv,late pre-manifest HD,13/09/2018,Screening,USA
+JohnsHopkinsUniv,late pre-manifest HD,14/09/2018,Sampling,USA
+CenterMovDis,early HD,18/09/2018,Sampling,Canada
+UnivBritishCol,early pre-manifest HD,18/09/2018,Screening,Canada
+UnivHospErlangen,early HD,18/09/2018,Screening,Germany
+UnivBritishCol,healthy control,18/09/2018,Screening,Canada
+UnivCambridge,late pre-manifest HD,18/09/2018,Sampling,UK
+GeorgeHuntingtonInst,healthy control,19/09/2018,Screening,Germany
+StJosefAndElisabethHosp,early HD,19/09/2018,RPT Sampling,Germany
+GeorgeHuntingtonInst,early HD,19/09/2018,Sampling,Germany
+GeorgeHuntingtonInst,healthy control,19/09/2018,Sampling,Germany
+BirmSolNHSFounTrust,healthy control,20/09/2018,RPT Sampling,UK
+UnivBritishCol,early pre-manifest HD,26/09/2018,Sampling,Canada
+GeorgeHuntingtonInst,healthy control,26/09/2018,Screening,Germany
+JohnsHopkinsUniv,moderate HD,27/09/2018,RPT Sampling,USA
+GeorgeHuntingtonInst,healthy control,28/09/2018,Screening,Germany
+UnivTexasHlthCntrHous,early HD,28/09/2018,Sampling,USA
+GeorgeHuntingtonInst,early HD,28/09/2018,Screening,Germany
+JohnsHopkinsUniv,early HD,03/10/2018,Screening,USA
+UnivBritishCol,healthy control,04/10/2018,Premature End,Canada
+JohnsHopkinsUniv,early HD,04/10/2018,Sampling,USA
+UnivHospErlangen,early HD,08/10/2018,Premature End,Germany
+GeorgeHuntingtonInst,healthy control,08/10/2018,Sampling,Germany
+GeorgeHuntingtonInst,early HD,08/10/2018,Sampling,Germany
+GeorgeHuntingtonInst,healthy control,10/10/2018,Sampling,Germany
+JohnsHopkinsUniv,early pre-manifest HD,10/10/2018,Screening,USA
+GeorgeHuntingtonInst,early pre-manifest HD,11/10/2018,RPT Sampling,Germany
+GeorgeHuntingtonInst,late pre-manifest HD,11/10/2018,RPT Sampling,Germany
+JohnsHopkinsUniv,early pre-manifest HD,11/10/2018,Sampling,USA
+GeorgeHuntingtonInst,advanced HD,12/10/2018,Screening,Germany
+GeorgeHuntingtonInst,early HD,12/10/2018,Screen Fail,Germany
+GeorgeHuntingtonInst,healthy control,12/10/2018,Screening,Germany
+UnivHospUlm,early HD,16/10/2018,Screening,Germany
+UnivBritishCol,early HD,16/10/2018,Screening,Canada
+JohnsHopkinsUniv,early HD,17/10/2018,Screening,USA
+JohnsHopkinsUniv,early HD,18/10/2018,Sampling,USA
+UnivBritishCol,early HD,22/10/2018,Sampling,Canada
+GeorgeHuntingtonInst,healthy control,22/10/2018,Sampling,Germany
+GeorgeHuntingtonInst,late pre-manifest HD,22/10/2018,Screening,Germany
+UnivHospErlangen,early HD,23/10/2018,Screening,Germany
+UnivBritishCol,healthy control,23/10/2018,Screening,Canada
+CenterMovDis,late pre-manifest HD,23/10/2018,RPT Sampling,Canada
+UnivBritishCol,advanced HD,23/10/2018,Screening,Canada
+GeorgeHuntingtonInst,late pre-manifest HD,29/10/2018,RPT Sampling,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,29/10/2018,RPT Sampling,Germany
+GeorgeHuntingtonInst,early HD,29/10/2018,Screening,Germany
+UnivHospUlm,early HD,30/10/2018,Sampling,Germany
+LeedsTeachHospTrust,late pre-manifest HD,02/11/2018,Screen Fail,UK
+GeorgeHuntingtonInst,healthy control,05/11/2018,Sampling,Germany
+UnivHospErlangen,early HD,06/11/2018,Sampling,Germany
+UnivHospUlm,moderate HD,06/11/2018,Screening,Germany
+JohnsHopkinsUniv,early HD,06/11/2018,Screening,USA
+GeorgeHuntingtonInst,early pre-manifest HD,07/11/2018,Screening,Germany
+GeorgeHuntingtonInst,advanced HD,08/11/2018,Premature End,Germany
+GeorgeHuntingtonInst,late pre-manifest HD,12/11/2018,Sampling,Germany
+JohnsHopkinsUniv,early HD,13/11/2018,Sampling,USA
+UnivHospUlm,early HD,14/11/2018,Screen Fail,Germany
+JohnsHopkinsUniv,early HD,14/11/2018,Screening,USA
+JohnsHopkinsUniv,early HD,15/11/2018,Sampling,USA
+UnivBritishCol,early HD,16/11/2018,Screening,Canada
+UnivBritishCol,healthy control,19/11/2018,Sampling,Canada
+UnivBritishCol,advanced HD,19/11/2018,Sampling,Canada
+UnivHospUlm,early HD,21/11/2018,Screening,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,21/11/2018,Sampling,Germany
+StJosefAndElisabethHosp,late pre-manifest HD,22/11/2018,Screening,Germany
+UnivHospUlm,early HD,22/11/2018,Sampling,Germany
+BirmSolNHSFounTrust,early HD,22/11/2018,Screening,UK
+UnivBritishCol,early HD,23/11/2018,Sampling,Canada
+GreatGlasgowHealthBoard,late pre-manifest HD,27/11/2018,Screening,UK
+BirmSolNHSFounTrust,early HD,28/11/2018,Screening,UK
+CenterMovDis,early HD,28/11/2018,Screening,Canada
+UnivHospUlm,healthy control,28/11/2018,Screening,Germany
+UnivHospUlm,late pre-manifest HD,28/11/2018,Screening,Germany
+CenterMovDis,early HD,29/11/2018,Sampling,Canada
+UnivHospUlm,healthy control,29/11/2018,Sampling,Germany
+UnivHospUlm,late pre-manifest HD,29/11/2018,Sampling,Germany
+BirmSolNHSFounTrust,early HD,30/11/2018,Sampling,UK
+GeorgeHuntingtonInst,healthy control,03/12/2018,Screening,Germany
+GeorgeHuntingtonInst,moderate HD,03/12/2018,Screening,Germany
+CenterMovDis,late pre-manifest HD,04/12/2018,Screening,Canada
+CenterMovDis,late pre-manifest HD,05/12/2018,Sampling,Canada
+BirmSolNHSFounTrust,early HD,07/12/2018,Sampling,UK
+LeedsTeachHospTrust,late pre-manifest HD,07/12/2018,Screening,UK
+GeorgeHuntingtonInst,early HD,10/12/2018,Screening,Germany
+GreatGlasgowHealthBoard,late pre-manifest HD,11/12/2018,Sampling,UK
+StJosefAndElisabethHosp,late pre-manifest HD,14/12/2018,Sampling,Germany
+GeorgeHuntingtonInst,moderate HD,17/12/2018,Sampling,Germany
+LeedsTeachHospTrust,late pre-manifest HD,17/12/2018,Sampling,UK
+GeorgeHuntingtonInst,early HD,17/12/2018,Screening,Germany
+GeorgeHuntingtonInst,healthy control,18/12/2018,Sampling,Germany
+JohnsHopkinsUniv,early HD,19/12/2018,Screening,USA
+LeedsTeachHospTrust,late pre-manifest HD,04/01/2019,Screening,UK
+GeorgeHuntingtonInst,early HD,07/01/2019,Sampling,Germany
+CenterMovDis,late pre-manifest HD,09/01/2019,Screening,Canada
+GeorgeHuntingtonInst,early HD,10/01/2019,Screening,Germany
+JohnsHopkinsUniv,early HD,10/01/2019,Sampling,USA
+CenterMovDis,late pre-manifest HD,10/01/2019,Sampling,Canada
+GeorgeHuntingtonInst,late pre-manifest HD,11/01/2019,Screening,Germany
+LeedsTeachHospTrust,early pre-manifest HD,11/01/2019,Screening,UK
+GeorgeHuntingtonInst,healthy control,14/01/2019,Screening,Germany
+GeorgeHuntingtonInst,early HD,14/01/2019,Screening,Germany
+GeorgeHuntingtonInst,healthy control,14/01/2019,Screening,Germany
+LeedsTeachHospTrust,late pre-manifest HD,14/01/2019,Sampling,UK
+GeorgeHuntingtonInst,early HD,14/01/2019,Sampling,Germany
+JohnsHopkinsUniv,early HD,16/01/2019,Screening,USA
+JohnsHopkinsUniv,early HD,17/01/2019,Sampling,USA
+BirmSolNHSFounTrust,healthy control,18/01/2019,Screening,UK
+GeorgeHuntingtonInst,moderate HD,21/01/2019,RPT Sampling,Germany
+LeedsTeachHospTrust,early pre-manifest HD,21/01/2019,Sampling,UK
+GeorgeHuntingtonInst,healthy control,22/01/2019,Sampling,Germany
+GeorgeHuntingtonInst,early HD,22/01/2019,Sampling,Germany
+CenterMovDis,early HD,22/01/2019,Screening,Canada
+GeorgeHuntingtonInst,healthy control,22/01/2019,Sampling,Germany
+CenterMovDis,early HD,23/01/2019,Sampling,Canada
+JohnsHopkinsUniv,early HD,23/01/2019,Screening,USA
+StGeorgeHealthTrust,early HD,24/01/2019,Screening,UK
+JohnsHopkinsUniv,early HD,24/01/2019,Sampling,USA
+BirmSolNHSFounTrust,healthy control,25/01/2019,Sampling,UK
+GeorgeHuntingtonInst,early HD,28/01/2019,Sampling,Germany
+LeedsTeachHospTrust,late pre-manifest HD,01/02/2019,Screen Fail,UK
+GeorgeHuntingtonInst,early HD,04/02/2019,Screening,Germany
+StJosefAndElisabethHosp,healthy control,05/02/2019,Screening,Germany
+GeorgeHuntingtonInst,early HD,05/02/2019,Screening,Germany
+CenterMovDis,late pre-manifest HD,05/02/2019,Screening,Canada
+StGeorgeHealthTrust,early HD,06/02/2019,Sampling,UK
+CenterMovDis,late pre-manifest HD,06/02/2019,Sampling,Canada
+CenterMovDis,healthy control,12/02/2019,Screening,Canada
+GeorgeHuntingtonInst,early HD,14/02/2019,Screening,Germany
+GeorgeHuntingtonInst,healthy control,14/02/2019,Screening,Germany
+GeorgeHuntingtonInst,late pre-manifest HD,15/02/2019,Premature End,Germany
+StGeorgeHealthTrust,early HD,15/02/2019,Screen Fail,UK
+StGeorgeHealthTrust,early HD,15/02/2019,Screening,UK
+StGeorgeHealthTrust,early HD,15/02/2019,Screening,UK
+GeorgeHuntingtonInst,early HD,18/02/2019,Sampling,Germany
+RoyalDevExetFounTrst,early HD,18/02/2019,Screening,UK
+CenterMovDis,healthy control,20/02/2019,Sampling,Canada
+GeorgeHuntingtonInst,advanced HD,21/02/2019,Screening,Germany
+StGeorgeHealthTrust,early HD,21/02/2019,Screening,UK
+UnivHospUlm,late pre-manifest HD,21/02/2019,Screening,Germany
+UnivHospUlm,late pre-manifest HD,22/02/2019,Sampling,Germany
+GeorgeHuntingtonInst,early HD,25/02/2019,Sampling,Germany
+RoyalDevExetFounTrst,early HD,26/02/2019,Sampling,UK
+LeedsTeachHospTrust,late pre-manifest HD,01/03/2019,Screening,UK
+CenterMovDis,healthy control,05/03/2019,Screening,Canada
+CenterMovDis,late pre-manifest HD,05/03/2019,Screening,Canada
+UnivHospErlangen,early HD,05/03/2019,Screening,Germany
+UnivHospUlm,moderate HD,06/03/2019,Screening,Germany
+CenterMovDis,late pre-manifest HD,06/03/2019,Partial Sampling,Canada
+StGeorgeHealthTrust,early HD,06/03/2019,Sampling,UK
+CenterMovDis,late pre-manifest HD,06/03/2019,Screening,Canada
+StJosefAndElisabethHosp,healthy control,07/03/2019,Sampling,Germany
+UnivHospUlm,moderate HD,07/03/2019,Partial Sampling,Germany
+LeedsTeachHospTrust,healthy control,08/03/2019,Screening,UK
+GeorgeHuntingtonInst,early HD,12/03/2019,Sampling,Germany
+GeorgeHuntingtonInst,healthy control,12/03/2019,Sampling,Germany
+UnivHospErlangen,late pre-manifest HD,12/03/2019,Screening,Germany
+UnivTexasHlthCntrHous,early HD,13/03/2019,Screening,USA
+StGeorgeHealthTrust,early HD,13/03/2019,Sampling,UK
+StGeorgeHealthTrust,early HD,14/03/2019,Sampling,UK
+StGeorgeHealthTrust,late pre-manifest HD,15/03/2019,Screening,UK
+UnivTexasHlthCntrHous,early HD,15/03/2019,Sampling,USA
+UnivHospUlm,early HD,18/03/2019,Screening,Germany
+LeedsTeachHospTrust,late pre-manifest HD,18/03/2019,Sampling,UK
+GeorgeHuntingtonInst,advanced HD,19/03/2019,Sampling,Germany
+CenterMovDis,healthy control,20/03/2019,Sampling,Canada
+CenterMovDis,late pre-manifest HD,20/03/2019,Sampling,Canada
+CenterMovDis,late pre-manifest HD,21/03/2019,Sampling,Canada
+LeedsTeachHospTrust,healthy control,25/03/2019,Sampling,UK
+UnivHospErlangen,late pre-manifest HD,26/03/2019,Sampling,Germany
+BirmSolNHSFounTrust,moderate HD,29/03/2019,Screening,UK
+BirmSolNHSFounTrust,healthy control,29/03/2019,Screening,UK
+UnivHospErlangen,early HD,02/04/2019,Sampling,Germany
+CenterMovDis,healthy control,02/04/2019,Screening,Canada
+UnivHospUlm,early HD,03/04/2019,Sampling,Germany
+RoyalDevExetFounTrst,early HD,03/04/2019,Screening,UK
+CenterMovDis,healthy control,03/04/2019,Sampling,Canada
+RoyalDevExetFounTrst,early HD,04/04/2019,Sampling,UK
+StGeorgeHealthTrust,early HD,04/04/2019,Screening,UK
+StGeorgeHealthTrust,late pre-manifest HD,04/04/2019,Screening,UK
+BirmSolNHSFounTrust,moderate HD,05/04/2019,Sampling,UK
+LeedsTeachHospTrust,early HD,05/04/2019,Screening,UK
+GeorgeHuntingtonInst,early pre-manifest HD,08/04/2019,Screening,Germany
+StGeorgeHealthTrust,late pre-manifest HD,10/04/2019,Sampling,UK
+BirmSolNHSFounTrust,healthy control,12/04/2019,Sampling,UK
+LeedsTeachHospTrust,early HD,15/04/2019,Sampling,UK
+CenterMovDis,healthy control,23/04/2019,Screening,Canada
+UnivHospUlm,early HD,24/04/2019,Screening,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,24/04/2019,Sampling,Germany
+StGeorgeHealthTrust,early pre-manifest HD,25/04/2019,Screening,UK
+UnivHospUlm,early HD,25/04/2019,Sampling,Germany
+StGeorgeHealthTrust,late pre-manifest HD,25/04/2019,Sampling,UK
+GeorgeHuntingtonInst,late pre-manifest HD,25/04/2019,Screening,Germany
+UnivHospErlangen,healthy control,30/04/2019,Screening,Germany
+UnivHospErlangen,late pre-manifest HD,30/04/2019,Screening,Germany
+StGeorgeHealthTrust,early HD,01/05/2019,Sampling,UK
+LeedsTeachHospTrust,early HD,03/05/2019,Screening,UK
+UnivHospErlangen,early HD,07/05/2019,Screening,Germany
+CenterMovDis,healthy control,07/05/2019,Sampling,Canada
+GeorgeHuntingtonInst,late pre-manifest HD,07/05/2019,Sampling,Germany
+GeorgeHuntingtonInst,early HD,08/05/2019,Screening,Germany
+RoyalDevExetFounTrst,late pre-manifest HD,13/05/2019,Screening,UK
+UnivHospErlangen,healthy control,14/05/2019,Sampling,Germany
+UnivHospUlm,early HD,14/05/2019,Screening,Germany
+RoyalDevExetFounTrst,late pre-manifest HD,14/05/2019,Sampling,UK
+UnivHospErlangen,late pre-manifest HD,14/05/2019,Sampling,Germany
+UnivHospUlm,early HD,15/05/2019,Screening,Germany
+StGeorgeHealthTrust,early pre-manifest HD,15/05/2019,Sampling,UK
+UnivHospUlm,early HD,15/05/2019,Sampling,Germany
+UnivHospUlm,early HD,15/05/2019,Screening,Germany
+UnivHospUlm,early HD,16/05/2019,Sampling,Germany
+StGeorgeHealthTrust,late pre-manifest HD,17/05/2019,Screening,UK
+BirmSolNHSFounTrust,early HD,21/05/2019,Screening,UK
+UnivHospErlangen,early HD,21/05/2019,Sampling,Germany
+UnivHospErlangen,early pre-manifest HD,21/05/2019,Screening,Germany
+StGeorgeHealthTrust,early HD,23/05/2019,Screening,UK
+BirmSolNHSFounTrust,early HD,24/05/2019,Partial Sampling,UK
+UnivBritishCol,healthy control,24/05/2019,Screening,Canada
+UnivHospUlm,early HD,27/05/2019,Screening,Germany
+GeorgeHuntingtonInst,early HD,28/05/2019,Screening,Germany
+UnivHospUlm,early HD,28/05/2019,Sampling,Germany
+UnivHospUlm,early HD,29/05/2019,Sampling,Germany
+CenterMovDis,early pre-manifest HD,29/05/2019,Screening,Canada
+CenterMovDis,early pre-manifest HD,30/05/2019,Sampling,Canada
+StGeorgeHealthTrust,early HD,30/05/2019,Premature End,UK
+StGeorgeHealthTrust,late pre-manifest HD,04/06/2019,Premature End,UK
+UnivHospErlangen,early pre-manifest HD,04/06/2019,Sampling,Germany
+UnivHospErlangen,early HD,11/06/2019,Screening,Germany
+GeorgeHuntingtonInst,early HD,12/06/2019,Sampling,Germany
+LeedsTeachHospTrust,early HD,13/06/2019,Sampling,UK
+UnivBritishCol,healthy control,14/06/2019,Sampling,Canada
+UnivHospUlm,early HD,17/06/2019,Screening,Germany
+BirmSolNHSFounTrust,healthy control,18/06/2019,Screening,UK
+UnivHospUlm,early HD,18/06/2019,Sampling,Germany
+CenterMovDis,late pre-manifest HD,24/06/2019,Screen Fail,Canada
+GeorgeHuntingtonInst,early HD,28/06/2019,Screening,Germany
+BirmSolNHSFounTrust,healthy control,28/06/2019,Sampling,UK
+UnivHospErlangen,early HD,02/07/2019,Sampling,Germany
+GeorgeHuntingtonInst,early HD,09/07/2019,Sampling,Germany
+CenterMovDis,healthy control,22/07/2019,Screening,Canada
+UnivHospUlm,early HD,22/07/2019,Screening,Germany
+CenterMovDis,early HD,22/07/2019,Screening,Canada
+CenterMovDis,healthy control,23/07/2019,Sampling,Canada
+CenterMovDis,early HD,23/07/2019,Sampling,Canada
+UnivHospUlm,early HD,06/08/2019,Sampling,Germany
+CenterMovDis,healthy control,14/08/2019,Screening,Canada
+CenterMovDis,healthy control,15/08/2019,Sampling,Canada
+CenterMovDis,healthy control,19/08/2019,Screening,Canada
+CenterMovDis,moderate HD,19/08/2019,Screening,Canada
+CenterMovDis,healthy control,20/08/2019,Sampling,Canada
+CenterMovDis,moderate HD,20/08/2019,Sampling,Canada
+StGeorgeHealthTrust,late pre-manifest HD,22/08/2019,Screening,UK
+CenterMovDis,healthy control,26/08/2019,Screening,Canada
+CenterMovDis,healthy control,27/08/2019,Sampling,Canada
+BirmSolNHSFounTrust,early HD,10/09/2019,Screening,UK
+StGeorgeHealthTrust,late pre-manifest HD,11/09/2019,Sampling,UK
+UnivHospUlm,early HD,11/09/2019,Screening,Germany
+BirmSolNHSFounTrust,early HD,11/09/2019,Screening,UK
+UnivHospUlm,early HD,12/09/2019,Sampling,Germany
+UnivHospUlm,early HD,17/09/2019,Screening,Germany
+CenterMovDis,early HD,18/09/2019,Screening,Canada
+UnivHospUlm,early HD,18/09/2019,Sampling,Germany
+CenterMovDis,early HD,19/09/2019,Partial Sampling,Canada
+StGeorgeHealthTrust,early HD,20/09/2019,Screening,UK
+CenterMovDis,healthy control,23/09/2019,Screening,Canada
+CenterMovDis,healthy control,23/09/2019,Screening,Canada
+CenterMovDis,healthy control,24/09/2019,Sampling,Canada
+CenterMovDis,healthy control,24/09/2019,Sampling,Canada
+UnivHospUlm,early HD,01/10/2019,Screening,Germany
+UnivHospUlm,early HD,02/10/2019,Sampling,Germany
+BirmSolNHSFounTrust,early HD,04/10/2019,Sampling,UK
+BirmSolNHSFounTrust,early HD,11/10/2019,Sampling,UK
+LegaItalRiceHunt,early HD,14/10/2019,Screening,Italy
+StGeorgeHealthTrust,early HD,16/10/2019,Sampling,UK
+LegaItalRiceHunt,early HD,16/10/2019,Screening,Italy
+Cenexel,early HD,17/10/2019,Screening,USA
+Cenexel,healthy control,17/10/2019,Screening,USA
+PlyHospNHSTrust,late pre-manifest HD,22/10/2019,Screening,UK
+RoyalDevExetFounTrst,late pre-manifest HD,23/10/2019,Screening,UK
+LegaItalRiceHunt,early HD,24/10/2019,Sampling,Italy
+LegaItalRiceHunt,early HD,24/10/2019,Sampling,Italy
+PlyHospNHSTrust,late pre-manifest HD,25/10/2019,Sampling,UK
+LegaItalRiceHunt,early HD,29/10/2019,Screening,Italy
+RoyalDevExetFounTrst,late pre-manifest HD,29/10/2019,Sampling,UK
+CenterMovDis,healthy control,30/10/2019,Screening,Canada
+UnivHospUlm,early HD,30/10/2019,Screening,Germany
+CenterMovDis,healthy control,31/10/2019,Sampling,Canada
+UnivHospUlm,early HD,31/10/2019,Sampling,Germany
+OxfordUnivHospTrust,moderate HD,05/11/2019,Screening,UK
+Cenexel,healthy control,12/11/2019,Screening,USA
+BirmSolNHSFounTrust,late pre-manifest HD,13/11/2019,Screening,UK
+UnivHospUlm,early HD,13/11/2019,Screening,Germany
+GeorgeHuntingtonInst,early HD,14/11/2019,Screening,Germany
+UnivHospUlm,early HD,14/11/2019,Sampling,Germany
+Cenexel,healthy control,14/11/2019,Sampling,USA
+Cenexel,early HD,15/11/2019,Sampling,USA
+LegaItalRiceHunt,early HD,18/11/2019,Screening,Italy
+LegaItalRiceHunt,early HD,19/11/2019,Screening,Italy
+LegaItalRiceHunt,early HD,21/11/2019,Sampling,Italy
+Cenexel,late pre-manifest HD,25/11/2019,Screening,USA
+RoyalDevExetFounTrst,late pre-manifest HD,26/11/2019,Screening,UK
+LegaItalRiceHunt,early HD,27/11/2019,Sampling,Italy
+LegaItalRiceHunt,early HD,27/11/2019,Sampling,Italy
+Cenexel,healthy control,27/11/2019,Sampling,USA
+BirmSolNHSFounTrust,healthy control,28/11/2019,Screening,UK
+OxfordUnivHospTrust,moderate HD,29/11/2019,Sampling,UK
+LegaItalRiceHunt,early pre-manifest HD,29/11/2019,Screening,Italy
+RoyalDevExetFounTrst,late pre-manifest HD,29/11/2019,Sampling,UK
+Cenexel,late pre-manifest HD,02/12/2019,Sampling,USA
+OxfordUnivHospTrust,early HD,03/12/2019,Screening,UK
+LegaItalRiceHunt,early HD,04/12/2019,Screening,Italy
+BirmSolNHSFounTrust,late pre-manifest HD,06/12/2019,Sampling,UK
+GeorgeHuntingtonInst,early HD,12/12/2019,Sampling,Germany
+PlyHospNHSTrust,late pre-manifest HD,13/12/2019,Screening,UK
+Cenexel,healthy control,13/12/2019,Screening,USA
+LegaItalRiceHunt,early pre-manifest HD,19/12/2019,Sampling,Italy
+LegaItalRiceHunt,early HD,19/12/2019,Sampling,Italy
+OxfordUnivHospTrust,early HD,19/12/2019,Premature End,UK
+BirmSolNHSFounTrust,healthy control,20/12/2019,Sampling,UK
+RoyalDevExetFounTrst,early pre-manifest HD,06/01/2020,Screening,UK
+GeorgeHuntingtonInst,early pre-manifest HD,07/01/2020,Screening,Germany
+Cenexel,healthy control,07/01/2020,Sampling,USA
+OxfordUnivHospTrust,early HD,07/01/2020,Screening,UK
+BirmSolNHSFounTrust,late pre-manifest HD,08/01/2020,Screening,UK
+PlyHospNHSTrust,late pre-manifest HD,08/01/2020,Sampling,UK
+GeorgeHuntingtonInst,early HD,09/01/2020,Screening,Germany
+FifeHealthBoard,early HD,10/01/2020,Screening,UK
+GeorgeHuntingtonInst,healthy control,10/01/2020,Screening,Germany
+OxfordUnivHospTrust,early HD,10/01/2020,Sampling,UK
+GeorgeHuntingtonInst,early pre-manifest HD,10/01/2020,Screening,Germany
+CenterMovDis,early HD,13/01/2020,Screening,Canada
+LegaItalRiceHunt,early HD,13/01/2020,Screening,Italy
+LegaItalRiceHunt,early HD,13/01/2020,Screening,Italy
+UnivHospUlm,healthy control,13/01/2020,Screening,Germany
+RoyalDevExetFounTrst,early pre-manifest HD,13/01/2020,Sampling,UK
+CenterMovDis,early HD,14/01/2020,Sampling,Canada
+UnivHospUlm,healthy control,14/01/2020,Sampling,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,15/01/2020,Sampling,Germany
+LegaItalRiceHunt,early HD,16/01/2020,Partial Sampling,Italy
+LegaItalRiceHunt,early HD,16/01/2020,Partial Sampling,Italy
+StGeorgeHealthTrust,early pre-manifest HD,17/01/2020,Screening,UK
+FifeHealthBoard,late pre-manifest HD,17/01/2020,Screening,UK
+GeorgeHuntingtonInst,healthy control,17/01/2020,Sampling,Germany
+LegaItalRiceHunt,early pre-manifest HD,20/01/2020,Screening,Italy
+Cenexel,late pre-manifest HD,20/01/2020,RPT Sampling,USA
+OxfordUnivHospTrust,early pre-manifest HD,21/01/2020,Screening,UK
+OxfordUnivHospTrust,late pre-manifest HD,21/01/2020,Screening,UK
+OxfordUnivHospTrust,early pre-manifest HD,21/01/2020,Screening,UK
+PlyHospNHSTrust,early pre-manifest HD,21/01/2020,Screening,UK
+GeorgeHuntingtonInst,early pre-manifest HD,22/01/2020,Sampling,Germany
+LegaItalRiceHunt,early HD,22/01/2020,Screening,Italy
+CenterMovDis,late pre-manifest HD,22/01/2020,Screening,Canada
+CenterMovDis,healthy control,22/01/2020,Screening,Canada
+LegaItalRiceHunt,early HD,22/01/2020,Screening,Italy
+RoyalDevExetFounTrst,early HD,22/01/2020,Screening,UK
+LegaItalRiceHunt,early HD,23/01/2020,Sampling,Italy
+CenterMovDis,late pre-manifest HD,23/01/2020,Sampling,Canada
+CenterMovDis,healthy control,23/01/2020,Sampling,Canada
+LegaItalRiceHunt,early HD,23/01/2020,Sampling,Italy
+FifeHealthBoard,late pre-manifest HD,23/01/2020,Sampling,UK
+FifeHealthBoard,early HD,23/01/2020,Sampling,UK
+OxfordUnivHospTrust,early pre-manifest HD,24/01/2020,Sampling,UK
+GeorgeHuntingtonInst,healthy control,27/01/2020,Screening,Germany
+MilanGenetic,early HD,27/01/2020,Screening,Italy
+GeorgeHuntingtonInst,early HD,30/01/2020,Sampling,Germany
+UnivHospUlm,advanced HD,30/01/2020,Screening,Germany
+UnivBritishCol,early pre-manifest HD,31/01/2020,Screening,Canada
+BirmSolNHSFounTrust,late pre-manifest HD,31/01/2020,Sampling,UK
+GeorgeHuntingtonInst,healthy control,03/02/2020,Sampling,Germany
+RoyalDevExetFounTrst,early HD,03/02/2020,Sampling,UK
+OxfordUnivHospTrust,early pre-manifest HD,04/02/2020,Screening,UK
+StGeorgeHealthTrust,early pre-manifest HD,05/02/2020,Sampling,UK
+GeorgeHuntingtonInst,early HD,06/02/2020,Premature End,Germany
+UnivHospUlm,moderate HD,06/02/2020,Premature End,Germany
+CenterMovDis,early HD,06/02/2020,Premature End,Canada
+GeorgeHuntingtonInst,early HD,06/02/2020,Premature End,Germany
+UnivBritishCol,early pre-manifest HD,07/02/2020,Sampling,Canada
+RoyalDevExetFounTrst,late pre-manifest HD,11/02/2020,Screening,UK
+MilanGenetic,early HD,11/02/2020,Partial Sampling,Italy
+PlyHospNHSTrust,early HD,13/02/2020,Screening,UK
+LegaItalRiceHunt,early pre-manifest HD,13/02/2020,Sampling,Italy
+OxfordUnivHospTrust,early pre-manifest HD,14/02/2020,Sampling,UK
+PlyHospNHSTrust,early pre-manifest HD,14/02/2020,Sampling,UK
+RoyalDevExetFounTrst,late pre-manifest HD,17/02/2020,Sampling,UK
+LegaItalRiceHunt,early HD,17/02/2020,Screening,Italy
+RoyalDevExetFounTrst,early pre-manifest HD,18/02/2020,Screening,UK
+BirmSolNHSFounTrust,healthy control,18/02/2020,Screening,UK
+CenterMovDis,early pre-manifest HD,19/02/2020,Screening,Canada
+CenterMovDis,healthy control,19/02/2020,Screen Fail,Canada
+LegaItalRiceHunt,early HD,20/02/2020,Sampling,Italy
+OxfordUnivHospTrust,late pre-manifest HD,20/02/2020,Premature End,UK
+UnivHospUlm,advanced HD,20/02/2020,Sampling,Germany
+CenterMovDis,early pre-manifest HD,20/02/2020,Sampling,Canada
+FifeHealthBoard,healthy control,21/02/2020,Screening,UK
+FifeHealthBoard,early pre-manifest HD,21/02/2020,Screening,UK
+RoyalDevExetFounTrst,early pre-manifest HD,24/02/2020,Sampling,UK
+WaltonCtrFounTrust,early HD,26/02/2020,Screening,UK
+FifeHealthBoard,healthy control,27/02/2020,Sampling,UK
+FifeHealthBoard,early pre-manifest HD,27/02/2020,Sampling,UK
+BirmSolNHSFounTrust,healthy control,28/02/2020,Sampling,UK
+Cenexel,healthy control,02/03/2020,Screening,USA
+PlyHospNHSTrust,healthy control,04/03/2020,Screen Fail,UK
+GeorgeHuntingtonInst,early pre-manifest HD,04/03/2020,Screen Fail,Germany
+GeorgeHuntingtonInst,early HD,05/03/2020,Screening,Germany
+OxfordUnivHospTrust,early pre-manifest HD,06/03/2020,Sampling,UK
+FifeHealthBoard,early HD,06/03/2020,Screen Fail,UK
+PlyHospNHSTrust,healthy control,09/03/2020,Screening,UK
+RoyalDevExetFounTrst,early HD,09/03/2020,Screening,UK
+FifeHealthBoard,early HD,13/03/2020,Screen Fail,UK
+GeorgeHuntingtonInst,early HD,16/03/2020,Sampling,Germany
+Cenexel,healthy control,16/03/2020,Sampling,USA
+CenterMovDis,healthy control,16/03/2020,Screening,Canada
+RoyalDevExetFounTrst,early HD,16/03/2020,Sampling,UK
+PlyHospNHSTrust,early HD,17/03/2020,Premature End,UK
+PlyHospNHSTrust,healthy control,17/03/2020,Premature End,UK
+CenterMovDis,healthy control,17/03/2020,Sampling,Canada
+UnivHospUlm,advanced HD,22/04/2020,RPT Sampling,Germany
+GeorgeHuntingtonInst,moderate HD,22/04/2020,Screening,Germany
+GeorgeHuntingtonInst,moderate HD,04/05/2020,Sampling,Germany
+UnivHospUlm,moderate HD,09/06/2020,Screening,Germany
+UnivHospUlm,moderate HD,10/06/2020,Sampling,Germany
+UnivHospUlm,advanced HD,16/06/2020,Screening,Germany
+UnivHospUlm,advanced HD,17/06/2020,Sampling,Germany
+UnivHospUlm,late pre-manifest HD,17/06/2020,Screening,Germany
+UnivHospUlm,late pre-manifest HD,18/06/2020,Sampling,Germany
+CenterMovDis,healthy control,22/06/2020,Screening,Canada
+CenterMovDis,healthy control,23/06/2020,Sampling,Canada
+UnivHospUlm,late pre-manifest HD,24/06/2020,Screening,Germany
+LegaItalRiceHunt,early pre-manifest HD,24/06/2020,Screening,Italy
+UnivHospUlm,late pre-manifest HD,25/06/2020,Sampling,Germany
+LegaItalRiceHunt,early pre-manifest HD,26/06/2020,Screening,Italy
+Cenexel,early HD,29/06/2020,Screen Fail,USA
+Cenexel,healthy control,29/06/2020,Screening,USA
+MilanGenetic,early HD,29/06/2020,Screening,Italy
+LegaItalRiceHunt,early pre-manifest HD,02/07/2020,Sampling,Italy
+MilanGenetic,early HD,14/07/2020,Sampling,Italy
+LegaItalRiceHunt,early pre-manifest HD,15/07/2020,Sampling,Italy
+Cenexel,healthy control,15/07/2020,Screening,USA
+Cenexel,healthy control,28/07/2020,Sampling,USA
+Cenexel,healthy control,04/08/2020,Sampling,USA
+CenterMovDis,healthy control,12/08/2020,Screening,Canada
+CenterMovDis,healthy control,13/08/2020,Sampling,Canada
+CenterMovDis,healthy control,19/08/2020,Screening,Canada
+CenterMovDis,healthy control,20/08/2020,Sampling,Canada
+LegaItalRiceHunt,early pre-manifest HD,31/08/2020,Screening,Italy
+LegaItalRiceHunt,early pre-manifest HD,03/09/2020,RPT Sampling,Italy
+CenterMovDis,healthy control,03/09/2020,Screening,Canada
+LegaItalRiceHunt,early pre-manifest HD,03/09/2020,Sampling,Italy
+LegaItalRiceHunt,late pre-manifest HD,08/09/2020,Screening,Italy
+CenterMovDis,healthy control,08/09/2020,Sampling,Canada
+MilanGenetic,early HD,21/09/2020,Screening,Italy
+MilanGenetic,early HD,22/09/2020,Sampling,Italy
+UnivHospUlm,early pre-manifest HD,22/09/2020,Screening,Germany
+UnivHospUlm,early pre-manifest HD,23/09/2020,Sampling,Germany
+Cenexel,healthy control,28/09/2020,Screening,USA
+LegaItalRiceHunt,late pre-manifest HD,01/10/2020,Sampling,Italy
+UnivTexasHlthCntrHous,early pre-manifest HD,01/10/2020,Screening,USA
+LegaItalRiceHunt,early pre-manifest HD,01/10/2020,RPT Sampling,Italy
+UnivTexasHlthCntrHous,early pre-manifest HD,02/10/2020,Sampling,USA
+CenterMovDis,early HD,05/10/2020,Screening,Canada
+CenterMovDis,early HD,06/10/2020,Sampling,Canada
+UnivHospErlangen,healthy control,06/10/2020,Screening,Germany
+MilanGenetic,early HD,08/10/2020,Screening,Italy
+LegaItalRiceHunt,early HD,15/10/2020,Screening,Italy
+LegaItalRiceHunt,early HD,15/10/2020,Screening,Italy
+LegaItalRiceHunt,early HD,19/10/2020,Premature End,Italy
+HospCreuSantPau,early HD,21/10/2020,Screening,Spain
+LegaItalRiceHunt,early HD,22/10/2020,Sampling,Italy
+Cenexel,early pre-manifest HD,22/10/2020,Screening,USA
+HospCreuSantPau,early HD,22/10/2020,Sampling,Spain
+Cenexel,early pre-manifest HD,23/10/2020,Sampling,USA
+MilanGenetic,early HD,27/10/2020,Sampling,Italy
+HospCreuSantPau,late pre-manifest HD,28/10/2020,Screening,Spain
+HospCreuSantPau,late pre-manifest HD,29/10/2020,Sampling,Spain
+UnivHospErlangen,healthy control,03/11/2020,Sampling,Germany
+Cenexel,healthy control,04/11/2020,Screening,USA
+CenterMovDis,healthy control,04/11/2020,Screening,Canada
+Cenexel,late pre-manifest HD,06/11/2020,Screening,USA
+Cenexel,healthy control,06/11/2020,Sampling,USA
+CenterMovDis,healthy control,10/11/2020,Sampling,Canada
+CenterMovDis,healthy control,11/11/2020,Screening,Canada
+CenterMovDis,healthy control,12/11/2020,Sampling,Canada
+Cenexel,healthy control,16/11/2020,Sampling,USA
+LegaItalRiceHunt,early HD,17/11/2020,Screening,Italy
+LegaItalRiceHunt,early HD,19/11/2020,Sampling,Italy
+Cenexel,healthy control,20/11/2020,Screening,USA
+Cenexel,late pre-manifest HD,25/11/2020,Sampling,USA
+HospCreuSantPau,early HD,26/11/2020,Screening,Spain
+HospCreuSantPau,early HD,27/11/2020,Sampling,Spain
+CenterMovDis,healthy control,02/12/2020,Screening,Canada
+CenterMovDis,late pre-manifest HD,02/12/2020,Screening,Canada
+CenterMovDis,healthy control,03/12/2020,Sampling,Canada
+HospCreuSantPau,early pre-manifest HD,03/12/2020,Screening,Spain
+CenterMovDis,late pre-manifest HD,03/12/2020,Sampling,Canada
+HospCreuSantPau,early pre-manifest HD,04/12/2020,Sampling,Spain
+CenterMovDis,early pre-manifest HD,09/12/2020,Screening,Canada
+CenterMovDis,early pre-manifest HD,10/12/2020,Sampling,Canada
+GeorgetownUniv,early pre-manifest HD,14/12/2020,Screening,USA
+LegaItalRiceHunt,early HD,14/12/2020,Screening,Italy
+LegaItalRiceHunt,early HD,15/12/2020,Screening,Italy
+Cenexel,healthy control,15/12/2020,Sampling,USA
+LegaItalRiceHunt,early HD,17/12/2020,Sampling,Italy
+GeorgetownUniv,early HD,21/12/2020,Screening,USA
+CenterMovDis,healthy control,21/12/2020,Screening,Canada
+CenterMovDis,healthy control,22/12/2020,Sampling,Canada
+CenterMovDis,late pre-manifest HD,06/01/2021,Screening,Canada
+CenterMovDis,late pre-manifest HD,07/01/2021,Sampling,Canada
+GeorgetownUniv,early HD,08/01/2021,Sampling,USA
+LegaItalRiceHunt,early HD,11/01/2021,Screening,Italy
+GeorgetownUniv,early pre-manifest HD,12/01/2021,Sampling,USA
+LegaItalRiceHunt,early HD,14/01/2021,Sampling,Italy
+LegaItalRiceHunt,early HD,14/01/2021,Sampling,Italy
+UnivBritishCol,early pre-manifest HD,19/01/2021,Screening,Canada
+UnivBritishCol,early pre-manifest HD,26/01/2021,Sampling,Canada
+CenterMovDis,healthy control,27/01/2021,Screening,Canada
+GeorgeHuntingtonInst,early HD,27/01/2021,Screening,Germany
+CenterMovDis,healthy control,28/01/2021,Sampling,Canada
+LegaItalRiceHunt,early HD,05/02/2021,Screening,Italy
+LegaItalRiceHunt,early HD,08/02/2021,Screening,Italy
+LegaItalRiceHunt,early HD,09/02/2021,Premature End,Italy
+LegaItalRiceHunt,early HD,11/02/2021,Sampling,Italy
+UnivHospUlm,late pre-manifest HD,16/02/2021,Screening,Germany
+UnivHospUlm,late pre-manifest HD,17/02/2021,Sampling,Germany
+LegaItalRiceHunt,early HD,22/02/2021,Screening,Italy
+GeorgeHuntingtonInst,early pre-manifest HD,23/02/2021,Screening,Germany
+UnivHospUlm,late pre-manifest HD,24/02/2021,Screening,Germany
+GeorgeHuntingtonInst,early HD,24/02/2021,Sampling,Germany
+UnivHospUlm,late pre-manifest HD,25/02/2021,Sampling,Germany
+LegaItalRiceHunt,early HD,26/02/2021,Screening,Italy
+GeorgeHuntingtonInst,healthy control,01/03/2021,Screening,Germany
+LegaItalRiceHunt,early HD,02/03/2021,Sampling,Italy
+LegaItalRiceHunt,early HD,02/03/2021,Sampling,Italy
+UnivTexasHlthCntrHous,late pre-manifest HD,04/03/2021,Screening,USA
+UnivTexasHlthCntrHous,late pre-manifest HD,05/03/2021,Screen Fail,USA
+UnivTexasHlthCntrHous,late pre-manifest HD,05/03/2021,Sampling,USA
+GeorgeHuntingtonInst,healthy control,08/03/2021,Sampling,Germany
+UnivTexasHlthCntrHous,late pre-manifest HD,09/03/2021,Screening,USA
+UnivBritishCol,early pre-manifest HD,12/03/2021,RPT Sampling,Canada
+LegaItalRiceHunt,early HD,19/03/2021,Screening,Italy
+GeorgeHuntingtonInst,early pre-manifest HD,19/03/2021,Sampling,Germany
+CenterMovDis,early pre-manifest HD,24/03/2021,Screening,Canada
+CenterMovDis,early pre-manifest HD,25/03/2021,Sampling,Canada
+LegaItalRiceHunt,early HD,26/03/2021,Screening,Italy
+GeorgeHuntingtonInst,healthy control,26/03/2021,Screening,Germany
+GeorgeHuntingtonInst,moderate HD,26/03/2021,Screening,Germany
+LegaItalRiceHunt,late pre-manifest HD,29/03/2021,Screening,Italy
+LegaItalRiceHunt,early HD,30/03/2021,Sampling,Italy
+GeorgeHuntingtonInst,early HD,30/03/2021,Screening,Germany
+LegaItalRiceHunt,early HD,30/03/2021,Sampling,Italy
+LegaItalRiceHunt,late pre-manifest HD,31/03/2021,Sampling,Italy
+LegaItalRiceHunt,early pre-manifest HD,08/04/2021,Screening,Italy
+GeorgeHuntingtonInst,early pre-manifest HD,08/04/2021,Screening,Germany
+Cenexel,healthy control,08/04/2021,Screening,USA
+Cenexel,healthy control,09/04/2021,Sampling,USA
+UnivTexasHlthCntrHous,late pre-manifest HD,09/04/2021,Sampling,USA
+GeorgeHuntingtonInst,early pre-manifest HD,13/04/2021,Sampling,Germany
+GeorgeHuntingtonInst,advanced HD,22/04/2021,Screening,Germany
+GeorgeHuntingtonInst,healthy control,23/04/2021,Sampling,Germany
+GeorgeHuntingtonInst,moderate HD,23/04/2021,Sampling,Germany
+GeorgeHuntingtonInst,early HD,26/04/2021,Sampling,Germany
+UnivHospUlm,early HD,26/04/2021,Screening,Germany
+LegaItalRiceHunt,early HD,28/04/2021,Screening,Italy
+GeorgeHuntingtonInst,advanced HD,04/05/2021,Screening,Germany
+GeorgeHuntingtonInst,healthy control,04/05/2021,Screening,Germany
+UnivHospUlm,early HD,05/05/2021,Sampling,Germany
+LegaItalRiceHunt,early HD,05/05/2021,Sampling,Italy
+GeorgeHuntingtonInst,advanced HD,05/05/2021,Sampling,Germany
+LegaItalRiceHunt,early pre-manifest HD,06/05/2021,Sampling,Italy
+Cenexel,early HD,07/05/2021,Screen Fail,USA
+CenterMovDis,healthy control,11/05/2021,Screening,Canada
+CenterMovDis,healthy control,12/05/2021,Sampling,Canada
+UnivHospUlm,early pre-manifest HD,25/05/2021,Screening,Germany
+UnivHospUlm,early pre-manifest HD,26/05/2021,Sampling,Germany
+GeorgeHuntingtonInst,advanced HD,26/05/2021,Sampling,Germany
+GeorgeHuntingtonInst,healthy control,26/05/2021,Sampling,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,31/05/2021,Screening,Germany
+InstPsychandNeuro,early pre-manifest HD,01/06/2021,Screening,Poland
+GeorgeHuntingtonInst,early pre-manifest HD,01/06/2021,Sampling,Germany
+LegaItalRiceHunt,early HD,03/06/2021,Screening,Italy
+CardiffUniv,early HD,03/06/2021,Screening,UK
+CardiffUniv,early HD,07/06/2021,Sampling,UK
+GeorgeHuntingtonInst,advanced HD,11/06/2021,Screening,Germany
+LegaItalRiceHunt,early pre-manifest HD,14/06/2021,Screening,Italy
+GeorgeHuntingtonInst,healthy control,17/06/2021,Screening,Germany
+GeorgeHuntingtonInst,late pre-manifest HD,17/06/2021,Screening,Germany
+GeorgeHuntingtonInst,healthy control,17/06/2021,Screening,Germany
+GeorgeHuntingtonInst,early HD,17/06/2021,Screening,Germany
+GeorgeHuntingtonInst,healthy control,18/06/2021,Sampling,Germany
+GeorgeHuntingtonInst,late pre-manifest HD,18/06/2021,Sampling,Germany
+LegaItalRiceHunt,early HD,18/06/2021,Sampling,Italy
+LegaItalRiceHunt,early pre-manifest HD,18/06/2021,Sampling,Italy
+GeorgeHuntingtonInst,healthy control,21/06/2021,Sampling,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,23/06/2021,Screening,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,23/06/2021,Screening,Germany
+GeorgeHuntingtonInst,early HD,23/06/2021,Sampling,Germany
+GeorgeHuntingtonInst,advanced HD,23/06/2021,Sampling,Germany
+GeorgeHuntingtonInst,advanced HD,25/06/2021,Screening,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,25/06/2021,Screening,Germany
+GeorgeHuntingtonInst,early HD,29/06/2021,Screening,Germany
+GeorgeHuntingtonInst,early HD,29/06/2021,Screening,Germany
+GeorgeHuntingtonInst,advanced HD,29/06/2021,Screening,Germany
+CenterMovDis,early HD,05/07/2021,Screening,Canada
+GeorgeHuntingtonInst,healthy control,05/07/2021,Screening,Germany
+CenterMovDis,early HD,06/07/2021,Sampling,Canada
+UnivHospUlm,moderate HD,07/07/2021,Screening,Germany
+UnivHospUlm,moderate HD,08/07/2021,Sampling,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,09/07/2021,Screening,Germany
+InstPsychandNeuro,late pre-manifest HD,12/07/2021,Screening,Poland
+GeorgeHuntingtonInst,early HD,13/07/2021,Sampling,Germany
+LegaItalRiceHunt,early HD,14/07/2021,Screening,Italy
+GeorgeHuntingtonInst,healthy control,14/07/2021,Sampling,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,16/07/2021,Sampling,Germany
+OxfordUnivHospTrust,early pre-manifest HD,16/07/2021,Screening,UK
+GeorgeHuntingtonInst,advanced HD,19/07/2021,Sampling,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,19/07/2021,Sampling,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,20/07/2021,Sampling,Germany
+GeorgeHuntingtonInst,advanced HD,23/07/2021,Sampling,Germany
+GeorgetownUniv,early HD,27/07/2021,Screening,USA
+GeorgeHuntingtonInst,early HD,30/07/2021,Sampling,Germany
+LegaItalRiceHunt,early HD,03/08/2021,Sampling,Italy
+Cenexel,moderate HD,04/08/2021,Screening,USA
+GeorgeHuntingtonInst,early HD,05/08/2021,Screening,Germany
+GeorgeHuntingtonInst,late pre-manifest HD,05/08/2021,Screening,Germany
+Cenexel,moderate HD,05/08/2021,Sampling,USA
+OxfordUnivHospTrust,early pre-manifest HD,06/08/2021,Sampling,UK
+LeedsTeachHospTrust,early HD,06/08/2021,Screening,UK
+GeorgeHuntingtonInst,early HD,10/08/2021,Screening,Germany
+InstPsychandNeuro,late pre-manifest HD,10/08/2021,Sampling,Poland
+GeorgetownUniv,early HD,13/08/2021,Screening,USA
+GeorgetownUniv,early HD,17/08/2021,Sampling,USA
+GeorgeHuntingtonInst,early HD,17/08/2021,Sampling,Germany
+RoyalDevExetFounTrst,late pre-manifest HD,20/08/2021,Screening,UK
+LegaItalRiceHunt,late pre-manifest HD,24/08/2021,Screening,Italy
+RoyalDevExetFounTrst,late pre-manifest HD,24/08/2021,Sampling,UK
+LeedsTeachHospTrust,early HD,24/08/2021,Sampling,UK
+CardiffUniv,early HD,25/08/2021,Screening,UK
+LegaItalRiceHunt,late pre-manifest HD,26/08/2021,Sampling,Italy
+GeorgeHuntingtonInst,healthy control,26/08/2021,Screening,Germany
+GeorgeHuntingtonInst,late pre-manifest HD,27/08/2021,Sampling,Germany
+CardiffUniv,early HD,27/08/2021,Sampling,UK
+GeorgeHuntingtonInst,early HD,27/08/2021,Screening,Germany
+GeorgeHuntingtonInst,early HD,31/08/2021,Sampling,Germany
+UnivHospErlangen,early pre-manifest HD,31/08/2021,Screening,Germany
+GeorgetownUniv,early HD,03/09/2021,Sampling,USA
+GeorgeHuntingtonInst,healthy control,06/09/2021,Sampling,Germany
+LegaItalRiceHunt,early pre-manifest HD,07/09/2021,Screening,Italy
+LegaItalRiceHunt,early pre-manifest HD,08/09/2021,Screening,Italy
+Cenexel,early pre-manifest HD,09/09/2021,Screening,USA
+Cenexel,healthy control,13/09/2021,Screening,USA
+GeorgeHuntingtonInst,healthy control,13/09/2021,Screening,Germany
+Cenexel,moderate HD,16/09/2021,Screening,USA
+Cenexel,early HD,16/09/2021,Screening,USA
+OxfordUnivHospTrust,early pre-manifest HD,17/09/2021,RPT Sampling,UK
+Cenexel,moderate HD,17/09/2021,Sampling,USA
+Cenexel,early HD,17/09/2021,Sampling,USA
+UnivTexasHlthCntrHous,healthy control,20/09/2021,Screening,USA
+LegaItalRiceHunt,early pre-manifest HD,21/09/2021,Sampling,Italy
+LegaItalRiceHunt,early pre-manifest HD,21/09/2021,Sampling,Italy
+UnivHospErlangen,early pre-manifest HD,21/09/2021,Sampling,Germany
+UnivHospUlm,early HD,21/09/2021,Screening,Germany
+GeorgeHuntingtonInst,moderate HD,22/09/2021,Screening,Germany
+UnivHospUlm,early HD,22/09/2021,Sampling,Germany
+GeorgetownUniv,early HD,29/09/2021,Screening,USA
+OxfordUnivHospTrust,early HD,01/10/2021,Screening,UK
+GeorgeHuntingtonInst,early HD,01/10/2021,Sampling,Germany
+GeorgeHuntingtonInst,moderate HD,04/10/2021,Sampling,Germany
+Cenexel,healthy control,04/10/2021,Sampling,USA
+LegaItalRiceHunt,early HD,04/10/2021,Screening,Italy
+Cenexel,early pre-manifest HD,05/10/2021,Sampling,USA
+LegaItalRiceHunt,early HD,06/10/2021,Sampling,Italy
+GeorgeHuntingtonInst,healthy control,08/10/2021,Sampling,Germany
+OxfordUnivHospTrust,late pre-manifest HD,15/10/2021,Screening,UK
+UnivTexasHlthCntrHous,healthy control,15/10/2021,Sampling,USA
+OxfordUnivHospTrust,early HD,15/10/2021,Partial Sampling,UK
+LegaItalRiceHunt,early HD,18/10/2021,Screening,Italy
+LegaItalRiceHunt,early HD,20/10/2021,Sampling,Italy
+Cenexel,early HD,25/10/2021,Screening,USA
+Cenexel,advanced HD,28/10/2021,Screening,USA
+GeorgetownUniv,early HD,28/10/2021,Sampling,USA
+Cenexel,early HD,28/10/2021,Screening,USA
+Cenexel,advanced HD,29/10/2021,Sampling,USA
+Cenexel,healthy control,01/11/2021,Screening,USA
+Cenexel,healthy control,01/11/2021,Screening,USA
+Cenexel,healthy control,02/11/2021,Sampling,USA
+Cenexel,healthy control,02/11/2021,Sampling,USA
+GeorgeHuntingtonInst,early HD,03/11/2021,Screening,Germany
+GeorgeHuntingtonInst,late pre-manifest HD,05/11/2021,Screening,Germany
+Cenexel,healthy control,08/11/2021,Screening,USA
+Cenexel,early pre-manifest HD,08/11/2021,Screening,USA
+Cenexel,healthy control,09/11/2021,Sampling,USA
+BirmSolNHSFounTrust,late pre-manifest HD,11/11/2021,Screening,UK
+Cenexel,early HD,11/11/2021,Screening,USA
+GeorgetownUniv,early HD,11/11/2021,Screening,USA
+GeorgeHuntingtonInst,advanced HD,11/11/2021,Screening,Germany
+Cenexel,early HD,12/11/2021,Sampling,USA
+GeorgeHuntingtonInst,moderate HD,15/11/2021,RPT Sampling,Germany
+Cenexel,early HD,15/11/2021,Sampling,USA
+UnivTexasHlthCntrHous,late pre-manifest HD,15/11/2021,Screening,USA
+Cenexel,early HD,17/11/2021,Sampling,USA
+GeorgeHuntingtonInst,early HD,18/11/2021,Screening,Germany
+OxfordUnivHospTrust,late pre-manifest HD,19/11/2021,Sampling,UK
+OxfordUnivHospTrust,early HD,19/11/2021,Screen Fail,UK
+LegaItalRiceHunt,early HD,22/11/2021,Screening,Italy
+Cenexel,healthy control,23/11/2021,Screening,USA
+Cenexel,healthy control,24/11/2021,Sampling,USA
+LegaItalRiceHunt,early HD,24/11/2021,Sampling,Italy
+GeorgeHuntingtonInst,late pre-manifest HD,26/11/2021,Sampling,Germany
+GeorgeHuntingtonInst,early HD,30/11/2021,Sampling,Germany
+UnivHospUlm,early HD,30/11/2021,Screening,Germany
+GeorgeHuntingtonInst,late pre-manifest HD,30/11/2021,Screening,Germany
+BirmSolNHSFounTrust,early pre-manifest HD,01/12/2021,Screening,UK
+UnivHospUlm,early HD,01/12/2021,Sampling,Germany
+BirmSolNHSFounTrust,early pre-manifest HD,03/12/2021,Partial Sampling,UK
+GeorgeHuntingtonInst,late pre-manifest HD,03/12/2021,Sampling,Germany
+Cenexel,early pre-manifest HD,06/12/2021,Sampling,USA
+Cenexel,healthy control,07/12/2021,Screening,USA
+GeorgeHuntingtonInst,early HD,07/12/2021,Sampling,Germany
+LegaItalRiceHunt,early HD,10/12/2021,Screening,Italy
+UnivTexasHlthCntrHous,late pre-manifest HD,10/12/2021,Sampling,USA
+GeorgetownUniv,early HD,10/12/2021,Sampling,USA
+Cenexel,healthy control,13/12/2021,Sampling,USA
+LegaItalRiceHunt,early HD,15/12/2021,Sampling,Italy
+Cenexel,early HD,16/12/2021,Screening,USA
+Cenexel,moderate HD,16/12/2021,Screen Fail,USA
+Cenexel,early HD,17/12/2021,Sampling,USA
+GeorgeHuntingtonInst,early HD,20/12/2021,Screening,Germany
+UnivHospErlangen,early HD,21/12/2021,Screening,Germany
+LegaItalRiceHunt,early HD,04/01/2022,Screening,Italy
+UnivHospErlangen,early HD,11/01/2022,Sampling,Germany
+GeorgeHuntingtonInst,early HD,12/01/2022,Sampling,Germany
+LegaItalRiceHunt,early HD,12/01/2022,Sampling,Italy
+UnivTexasHlthCntrHous,early HD,18/01/2022,Screening,USA
+Cenexel,early HD,20/01/2022,Screening,USA
+Cenexel,early HD,21/01/2022,Sampling,USA
+UnivHospUlm,early HD,25/01/2022,Screening,Germany
+UnivHospUlm,early HD,26/01/2022,Sampling,Germany
+UnivTexasHlthCntrHous,early HD,01/02/2022,Premature End,USA
+LegaItalRiceHunt,early HD,07/02/2022,Screening,Italy
+LegaItalRiceHunt,early HD,09/02/2022,Sampling,Italy
+OxfordUnivHospTrust,early HD,11/02/2022,Screening,UK
+LeedsTeachHospTrust,late pre-manifest HD,11/02/2022,Screening,UK
+RoyalDevExetFounTrst,late pre-manifest HD,14/02/2022,Screening,UK
+GeorgeHuntingtonInst,early HD,15/02/2022,Screening,Germany
+HospCreuSantPau,early HD,15/02/2022,Screening,Spain
+UnivHospErlangen,early HD,15/02/2022,Screening,Germany
+RoyalDevExetFounTrst,late pre-manifest HD,15/02/2022,Sampling,UK
+HospCreuSantPau,early HD,16/02/2022,Sampling,Spain
+Cenexel,early HD,17/02/2022,Screening,USA
+Cenexel,early HD,18/02/2022,Sampling,USA
+GeorgeHuntingtonInst,early HD,22/02/2022,Sampling,Germany
+InstPsychandNeuro,early pre-manifest HD,25/02/2022,Screening,Poland
+InstPsychandNeuro,early pre-manifest HD,25/02/2022,Screen Fail,Poland
+CardiffUniv,early HD,25/02/2022,Screening,UK
+InstPsychandNeuro,late pre-manifest HD,25/02/2022,Screening,Poland
+InstPsychandNeuro,healthy control,25/02/2022,Screening,Poland
+LegaItalRiceHunt,early pre-manifest HD,01/03/2022,Screening,Italy
+LegaItalRiceHunt,early pre-manifest HD,01/03/2022,Screening,Italy
+OxfordUnivHospTrust,early HD,04/03/2022,Sampling,UK
+LeedsTeachHospTrust,late pre-manifest HD,04/03/2022,Screening,UK
+UnivHospErlangen,early HD,08/03/2022,Sampling,Germany
+UnivHospUlm,late pre-manifest HD,08/03/2022,Screening,Germany
+LeedsTeachHospTrust,late pre-manifest HD,08/03/2022,Sampling,UK
+Cenexel,healthy control,09/03/2022,Screening,USA
+Cenexel,healthy control,10/03/2022,Sampling,USA
+LegaItalRiceHunt,early pre-manifest HD,17/03/2022,Sampling,Italy
+Cenexel,early pre-manifest HD,17/03/2022,Screening,USA
+LegaItalRiceHunt,early pre-manifest HD,17/03/2022,Sampling,Italy
+LeedsTeachHospTrust,late pre-manifest HD,17/03/2022,Sampling,UK
+OxfordUnivHospTrust,late pre-manifest HD,18/03/2022,Screening,UK
+OxfordUnivHospTrust,late pre-manifest HD,18/03/2022,Screening,UK
+UnivTexasHlthCntrHous,late pre-manifest HD,29/03/2022,Screening,USA
+UnivHospUlm,late pre-manifest HD,29/03/2022,Screening,Germany
+UnivCollLondon,late pre-manifest HD,29/03/2022,Screening,UK
+HospCreuSantPau,late pre-manifest HD,30/03/2022,Screen Fail,Spain
+UnivHospUlm,late pre-manifest HD,30/03/2022,Sampling,Germany
+UnivCollLondon,late pre-manifest HD,30/03/2022,Sampling,UK
+Cenexel,early pre-manifest HD,31/03/2022,Screening,USA
+Cenexel,early pre-manifest HD,01/04/2022,Sampling,USA
+LeedsTeachHospTrust,early HD,01/04/2022,Screen Fail,UK
+LegaItalRiceHunt,early HD,04/04/2022,Screening,Italy
+GeorgetownUniv,early HD,05/04/2022,Screening,USA
+UnivHospUlm,late pre-manifest HD,06/04/2022,Sampling,Germany
+GeorgeHuntingtonInst,early HD,06/04/2022,Screening,Germany
+LegaItalRiceHunt,early HD,06/04/2022,Partial Sampling,Italy
+Cenexel,early pre-manifest HD,07/04/2022,Sampling,USA
+HospCreuSantPau,late pre-manifest HD,20/04/2022,Screening,Spain
+HospCreuSantPau,late pre-manifest HD,21/04/2022,Sampling,Spain
+OxfordUnivHospTrust,late pre-manifest HD,22/04/2022,Sampling,UK
+UnivHospUlm,early HD,26/04/2022,Screening,Germany
+LegaItalRiceHunt,late pre-manifest HD,27/04/2022,Screening,Italy
+HospCreuSantPau,healthy control,27/04/2022,Screening,Spain
+HospCreuSantPau,late pre-manifest HD,27/04/2022,Screening,Spain
+UnivHospUlm,early HD,27/04/2022,Sampling,Germany
+HospCreuSantPau,healthy control,28/04/2022,Sampling,Spain
+HospCreuSantPau,late pre-manifest HD,28/04/2022,Sampling,Spain
+UnivTexasHlthCntrHous,late pre-manifest HD,28/04/2022,Sampling,USA
+LegaItalRiceHunt,early HD,28/04/2022,Screening,Italy
+UnivCollLondon,late pre-manifest HD,28/04/2022,Screening,UK
+OxfordUnivHospTrust,late pre-manifest HD,29/04/2022,Sampling,UK
+GeorgetownUniv,early HD,02/05/2022,Sampling,USA
+BirmSolNHSFounTrust,healthy control,05/05/2022,Screening,UK
+LegaItalRiceHunt,late pre-manifest HD,12/05/2022,Sampling,Italy
+LegaItalRiceHunt,early HD,12/05/2022,Sampling,Italy
+LeedsTeachHospTrust,late pre-manifest HD,13/05/2022,Screening,UK
+BirmSolNHSFounTrust,healthy control,13/05/2022,Sampling,UK
+UnivHospUlm,advanced HD,17/05/2022,Screen Fail,Germany
+UnivCollLondon,late pre-manifest HD,20/05/2022,Sampling,UK
+GeorgeHuntingtonInst,early HD,25/05/2022,Screening,Germany
+Cenexel,healthy control,02/06/2022,Screening,USA
+LegaItalRiceHunt,early HD,09/06/2022,Screening,Italy
+RoyalDevExetFounTrst,early HD,09/06/2022,Screening,UK
+Cenexel,healthy control,13/06/2022,Sampling,USA
+LegaItalRiceHunt,early HD,14/06/2022,Sampling,Italy
+RoyalDevExetFounTrst,early HD,14/06/2022,Sampling,UK
+LegaItalRiceHunt,early HD,15/06/2022,Screening,Italy
+LeedsTeachHospTrust,late pre-manifest HD,16/06/2022,Sampling,UK
+GeorgeHuntingtonInst,healthy control,20/06/2022,Screening,Germany
+GeorgeHuntingtonInst,moderate HD,20/06/2022,Screening,Germany
+GeorgeHuntingtonInst,early HD,22/06/2022,Screening,Germany
+GeorgeHuntingtonInst,early HD,22/06/2022,Sampling,Germany
+VanderbiltUnivMedCtr,early HD,23/06/2022,Screening,USA
+UnivCollLondon,early HD,28/06/2022,Screening,UK
+UnivCambridge,Incomplete penetrance,04/07/2022,Screening,UK
+UnivHospUlm,healthy control,05/07/2022,Screening,Germany
+UnivHospUlm,early HD,05/07/2022,Screening,Germany
+UnivHospUlm,healthy control,06/07/2022,Sampling,Germany
+UnivHospUlm,early HD,06/07/2022,Partial Sampling,Germany
+GeorgeHuntingtonInst,healthy control,08/07/2022,Sampling,Germany
+GeorgeHuntingtonInst,moderate HD,08/07/2022,Sampling,Germany
+UnivCollLondon,late pre-manifest HD,08/07/2022,RPT Sampling,UK
+VanderbiltUnivMedCtr,early HD,18/07/2022,Sampling,USA
+UnivCambridge,early pre-manifest HD,18/07/2022,Screening,UK
+UnivCambridge,Incomplete penetrance,18/07/2022,Sampling,UK
+GeorgeHuntingtonInst,early HD,20/07/2022,Sampling,Germany
+UnivCollLondon,early HD,21/07/2022,Sampling,UK
+VanderbiltUnivMedCtr,early HD,01/08/2022,Screening,USA
+UnivCambridge,early pre-manifest HD,08/08/2022,Sampling,UK
+VanderbiltUnivMedCtr,early HD,12/08/2022,Sampling,USA
+LeedsTeachHospTrust,late pre-manifest HD,12/08/2022,Screening,UK
+LeedsTeachHospTrust,early HD,12/08/2022,Screening,UK
+GeorgeHuntingtonInst,early HD,16/08/2022,Screening,Germany
+GeorgeHuntingtonInst,healthy control,17/08/2022,Screening,Germany
+UnivCollLondon,early HD,17/08/2022,Screening,UK
+RoyalDevExetFounTrst,early pre-manifest HD,17/08/2022,Screening,UK
+UnivCollLondon,early HD,18/08/2022,Sampling,UK
+GeorgeHuntingtonInst,healthy control,19/08/2022,Sampling,Germany
+LeedsTeachHospTrust,late pre-manifest HD,22/08/2022,Sampling,UK
+UnivCambridge,Incomplete penetrance,22/08/2022,RPT Sampling,UK
+RoyalDevExetFounTrst,early pre-manifest HD,23/08/2022,Sampling,UK
+GeorgeHuntingtonInst,early pre-manifest HD,24/08/2022,Screening,Germany
+Cenexel,early HD,25/08/2022,Screening,USA
+GeorgeHuntingtonInst,early HD,25/08/2022,Sampling,Germany
+Cenexel,early HD,26/08/2022,Sampling,USA
+GeorgeHuntingtonInst,early HD,30/08/2022,Screening,Germany
+GeorgetownUniv,late pre-manifest HD,30/08/2022,Screening,USA
+Cenexel,late pre-manifest HD,31/08/2022,Screening,USA
+GeorgetownUniv,late pre-manifest HD,31/08/2022,Sampling,USA
+Cenexel,early HD,31/08/2022,Screening,USA
+GeorgeHuntingtonInst,early HD,06/09/2022,Sampling,Germany
+NorthBristolTrust,Incomplete penetrance,07/09/2022,Screening,UK
+UnivCollLondon,Incomplete penetrance,07/09/2022,Screening,UK
+GeorgeHuntingtonInst,early pre-manifest HD,08/09/2022,Screening,Germany
+GeorgetownUniv,early HD,08/09/2022,Screening,USA
+UnivCollLondon,early HD,08/09/2022,RPT Sampling,UK
+UnivHosGustavDresden,early HD,09/09/2022,Screening,Germany
+GeorgeHuntingtonInst,early HD,13/09/2022,Screening,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,13/09/2022,Sampling,Germany
+GeorgeHuntingtonInst,early HD,13/09/2022,Screening,Germany
+GeorgetownUniv,early HD,21/09/2022,Screening,USA
+VanderbiltUnivMedCtr,early HD,21/09/2022,Screening,USA
+UnivCambridge,Incomplete penetrance,21/09/2022,Screening,UK
+UnivCambridge,late pre-manifest HD,21/09/2022,Screening,UK
+UnivCambridge,Incomplete penetrance,22/09/2022,Sampling,UK
+VanderbiltUnivMedCtr,early HD,23/09/2022,Screening,USA
+GeorgetownUniv,early HD,23/09/2022,Sampling,USA
+Cenexel,late pre-manifest HD,23/09/2022,Sampling,USA
+Cenexel,early HD,23/09/2022,Sampling,USA
+OxfordUnivHospTrust,early HD,23/09/2022,Screening,UK
+UnivCambridge,early pre-manifest HD,26/09/2022,RPT Sampling,UK
+Cenexel,healthy control,27/09/2022,Screening,USA
+Cenexel,healthy control,28/09/2022,Sampling,USA
+UnivHospUlm,early pre-manifest HD,28/09/2022,Screening,Germany
+Cenexel,late pre-manifest HD,28/09/2022,Screening,USA
+VanderbiltUnivMedCtr,early pre-manifest HD,29/09/2022,Screening,USA
+UnivHospUlm,early pre-manifest HD,29/09/2022,Sampling,Germany
+UnivCollLondon,Incomplete penetrance,29/09/2022,Sampling,UK
+VanderbiltUnivMedCtr,early pre-manifest HD,30/09/2022,Sampling,USA
+HospCreuSantPau,late pre-manifest HD,04/10/2022,Screening,Spain
+UnivHosGustavDresden,early HD,04/10/2022,Sampling,Germany
+GeorgeHuntingtonInst,early pre-manifest HD,05/10/2022,Sampling,Germany
+Cenexel,healthy control,05/10/2022,Screening,USA
+VanderbiltUnivMedCtr,late pre-manifest HD,06/10/2022,Screening,USA
+UnivCollLondon,healthy control,06/10/2022,Screening,UK
+UnivCollLondon,Incomplete penetrance,06/10/2022,Screening,UK
+VanderbiltUnivMedCtr,late pre-manifest HD,07/10/2022,Sampling,USA
+LeedsTeachHospTrust,early HD,07/10/2022,Screening,UK
+LeedsTeachHospTrust,early HD,07/10/2022,Screening,UK
+UnivHosGustavDresden,early HD,10/10/2022,Screening,Germany
+Cenexel,healthy control,10/10/2022,Sampling,USA
+UnivHosGustavDresden,early HD,13/10/2022,Sampling,Germany
+GeorgeHuntingtonInst,late pre-manifest HD,13/10/2022,Sampling,Germany
+UnivCollLondon,early HD,13/10/2022,Screening,UK
+VanderbiltUnivMedCtr,early HD,14/10/2022,Sampling,USA
+Cenexel,late pre-manifest HD,14/10/2022,Sampling,USA
+HospCreuSantPau,early HD,18/10/2022,Screening,Spain
+HospCreuSantPau,late pre-manifest HD,19/10/2022,Sampling,Spain
+GeorgetownUniv,early HD,19/10/2022,Sampling,USA
+VanderbiltUnivMedCtr,early HD,21/10/2022,Sampling,USA
+HospCreuSantPau,early HD,26/10/2022,Sampling,Spain
+VanderbiltUnivMedCtr,early pre-manifest HD,26/10/2022,Screening,USA
+LegaItalRiceHunt,early HD,27/10/2022,Screening,Italy
+UnivCollLondon,late pre-manifest HD,27/10/2022,Screening,UK
+OxfordUnivHospTrust,late pre-manifest HD,31/10/2022,Screening,UK
+VanderbiltUnivMedCtr,early HD,01/11/2022,Screening,USA
+GeorgeHuntingtonInst,moderate HD,02/11/2022,Screening,Germany
+LegaItalRiceHunt,early HD,08/11/2022,Screening,Italy
+VanderbiltUnivMedCtr,early pre-manifest HD,09/11/2022,Sampling,USA
+VanderbiltUnivMedCtr,early HD,09/11/2022,Partial Sampling,USA
+VanderbiltUnivMedCtr,early pre-manifest HD,10/11/2022,Screening,USA
+VanderbiltUnivMedCtr,early pre-manifest HD,10/11/2022,Screen Fail,USA
+VanderbiltUnivMedCtr,early pre-manifest HD,11/11/2022,Sampling,USA
+LeedsTeachHospTrust,early HD,11/11/2022,Screening,UK
+UnivCollLondon,healthy control,11/11/2022,Screening,UK
+UnivCollLondon,late pre-manifest HD,11/11/2022,Screening,UK
+LegaItalRiceHunt,early HD,15/11/2022,Sampling,Italy
+LegaItalRiceHunt,early HD,16/11/2022,Sampling,Italy
+UnivCollLondon,late pre-manifest HD,16/11/2022,Screening,UK
+GeorgeHuntingtonInst,late pre-manifest HD,17/11/2022,Screening,Germany
+GeorgeHuntingtonInst,late pre-manifest HD,18/11/2022,Screening,Germany
+VanderbiltUnivMedCtr,late pre-manifest HD,18/11/2022,RPT Sampling,USA
+HospCreuSantPau,early HD,22/11/2022,Screening,Spain
+HospCreuSantPau,early HD,23/11/2022,Sampling,Spain
+LegaItalRiceHunt,early HD,23/11/2022,Screening,Italy
+GeorgeHuntingtonInst,moderate HD,24/11/2022,Sampling,Germany
+GeorgeHuntingtonInst,advanced HD,24/11/2022,Screening,Germany
+StGeorgeHealthTrust,late pre-manifest HD,24/11/2022,Screening,UK
+VanderbiltUnivMedCtr,early HD,28/11/2022,Screening,USA
+LegaItalRiceHunt,early HD,29/11/2022,Sampling,Italy
+GeorgeHuntingtonInst,late pre-manifest HD,02/12/2022,Sampling,Germany
+LeedsTeachHospTrust,late pre-manifest HD,02/12/2022,Screening,UK
+LeedsTeachHospTrust,early HD,02/12/2022,Screening,UK
+UnivHospUlm,early HD,06/12/2022,Screening,Germany
+UnivHospUlm,early HD,07/12/2022,Screening,Germany
+VanderbiltUnivMedCtr,early HD,07/12/2022,Sampling,USA
+UnivHospUlm,early HD,07/12/2022,Sampling,Germany
+UnivHospUlm,early HD,08/12/2022,Sampling,Germany
+Cenexel,early HD,12/12/2022,Screening,USA
+GeorgeHuntingtonInst,late pre-manifest HD,13/12/2022,Sampling,Germany
+GeorgetownUniv,healthy control,13/12/2022,Screening,USA
+GeorgeHuntingtonInst,advanced HD,14/12/2022,Sampling,Germany
+GeorgetownUniv,healthy control,16/12/2022,Sampling,USA
+GeorgeHuntingtonInst,late pre-manifest HD,03/01/2023,Screening,Germany
+OxfordUnivHospTrust,early HD,06/01/2023,Screening,UK
+LeedsTeachHospTrust,early HD,06/01/2023,Screening,UK
+Cenexel,early HD,09/01/2023,Sampling,USA
+GeorgetownUniv,early HD,10/01/2023,Screening,USA
+GeorgeHuntingtonInst,early HD,11/01/2023,Screening,Germany
+GeorgeHuntingtonInst,late pre-manifest HD,11/01/2023,Screening,Germany
+UnivCambridge,early pre-manifest HD,11/01/2023,Screening,UK
+UnivCollLondon,early HD,11/01/2023,Screening,UK
+UnivCollLondon,healthy control,12/01/2023,RPT Sampling,UK
+LegaItalRiceHunt,early HD,17/01/2023,Screening,Italy
+UnivCambridge,Incomplete penetrance,17/01/2023,Screening,UK
+UnivHospUlm,early HD,18/01/2023,Screening,Germany
+StGeorgeHealthTrust,late pre-manifest HD,18/01/2023,Screening,UK
+UnivCambridge,early pre-manifest HD,18/01/2023,Sampling,UK
+UnivHospUlm,early HD,19/01/2023,Sampling,Germany
+UnivCollLondon,late pre-manifest HD,20/01/2023,Screening,UK
+OxfordUnivHospTrust,early HD,20/01/2023,Sampling,UK
+LegaItalRiceHunt,early HD,24/01/2023,Screening,Italy
+VanderbiltUnivMedCtr,early pre-manifest HD,24/01/2023,Screening,USA
+LegaItalRiceHunt,early HD,24/01/2023,Partial Sampling,Italy
+GeorgetownUniv,early HD,25/01/2023,Sampling,USA
+VanderbiltUnivMedCtr,early pre-manifest HD,25/01/2023,Sampling,USA
+GeorgeHuntingtonInst,early HD,26/01/2023,Screening,Germany
+CrucesHosp,early HD,26/01/2023,Screening,Spain
+VanderbiltUnivMedCtr,late pre-manifest HD,26/01/2023,Screening,USA
+UnivCollLondon,early HD,26/01/2023,Sampling,UK
+GeorgeHuntingtonInst,early HD,27/01/2023,Sampling,Germany
+CrucesHosp,early HD,27/01/2023,Sampling,Spain
+GeorgeHuntingtonInst,late pre-manifest HD,27/01/2023,Sampling,Germany
+VanderbiltUnivMedCtr,late pre-manifest HD,27/01/2023,Sampling,USA
+GeorgeHuntingtonInst,advanced HD,30/01/2023,Sampling,Germany
+GeorgeHuntingtonInst,late pre-manifest HD,30/01/2023,Sampling,Germany
+LeedsTeachHospTrust,early HD,31/01/2023,Sampling,UK
+VanderbiltUnivMedCtr,healthy control,01/02/2023,Screening,USA
+UnivCollLondon,healthy control,01/02/2023,Screening,UK
+VanderbiltUnivMedCtr,healthy control,02/02/2023,Sampling,USA
+UnivCollLondon,healthy control,02/02/2023,Sampling,UK
+LeedsTeachHospTrust,late pre-manifest HD,03/02/2023,Screening,UK
+OxfordUnivHospTrust,late pre-manifest HD,03/02/2023,Sampling,UK
+GeorgeHuntingtonInst,early HD,06/02/2023,Screening,Germany
+UnivTexasHlthCntrHous,late pre-manifest HD,06/02/2023,Screening,USA
+LegaItalRiceHunt,early pre-manifest HD,07/02/2023,Screening,Italy
+OttawaHosp,early HD,07/02/2023,Screening,Canada
+UnivTexasHlthCntrHous,late pre-manifest HD,07/02/2023,Sampling,USA
+OttawaHosp,late pre-manifest HD,07/02/2023,Screening,Canada
+UnivHospUlm,early HD,08/02/2023,Screening,Germany
+UnivHospUlm,early HD,09/02/2023,Sampling,Germany
+UnivCollLondon,healthy control,09/02/2023,Screening,UK
+UnivCollLondon,early pre-manifest HD,09/02/2023,Screening,UK
+UnivCollLondon,late pre-manifest HD,10/02/2023,Sampling,UK
+UnivCollLondon,healthy control,10/02/2023,Partial Sampling,UK
+LegaItalRiceHunt,late pre-manifest HD,13/02/2023,Screening,Italy
+OttawaHosp,late pre-manifest HD,13/02/2023,Sampling,Canada
+CrucesHosp,early HD,13/02/2023,Screening,Spain
+LegaItalRiceHunt,early HD,13/02/2023,Screening,Italy
+RoyalDevExetFounTrst,early HD,13/02/2023,Sampling,UK
+LegaItalRiceHunt,early pre-manifest HD,14/02/2023,Sampling,Italy
+LegaItalRiceHunt,early HD,14/02/2023,Sampling,Italy
+LegaItalRiceHunt,late pre-manifest HD,14/02/2023,Screening,Italy
+OttawaHosp,early HD,15/02/2023,Sampling,Canada
+LegaItalRiceHunt,late pre-manifest HD,15/02/2023,Sampling,Italy
+LegaItalRiceHunt,early HD,15/02/2023,Sampling,Italy
+UnivCollLondon,healthy control,17/02/2023,Sampling,UK
+UnivCollLondon,late pre-manifest HD,17/02/2023,Sampling,UK
+LegaItalRiceHunt,late pre-manifest HD,21/02/2023,Sampling,Italy
+UnivCollLondon,late pre-manifest HD,23/02/2023,Screening,UK
+VanderbiltUnivMedCtr,late pre-manifest HD,23/02/2023,Screening,USA
+StGeorgeHealthTrust,late pre-manifest HD,23/02/2023,Sampling,UK
+VanderbiltUnivMedCtr,late pre-manifest HD,24/02/2023,Sampling,USA
+UnivCollLondon,late pre-manifest HD,24/02/2023,Sampling,UK
+OxfordUnivHospTrust,early HD,,Sampling,UK
+UnivCollLondon,healthy control,,Sampling,UK
+UnivCollLondon,Incomplete penetrance,,Sampling,UK
+LeedsTeachHospTrust,early HD,,Sampling,UK
+LeedsTeachHospTrust,early HD,,Sampling,UK
+UnivCollLondon,early HD,,Sampling,UK
+UnivCollLondon,late pre-manifest HD,,Sampling,UK
+OxfordUnivHospTrust,late pre-manifest HD,,Sampling,UK
+LeedsTeachHospTrust,early HD,,Sampling,UK
+UnivCollLondon,healthy control,,Sampling,UK
+UnivCollLondon,late pre-manifest HD,,Sampling,UK
+UnivCollLondon,late pre-manifest HD,,Sampling,UK
+StGeorgeHealthTrust,late pre-manifest HD,,Sampling,UK
+LeedsTeachHospTrust,late pre-manifest HD,,Sampling,UK
+LeedsTeachHospTrust,early HD,,Sampling,UK
+UnivCollLondon,Incomplete penetrance,,RPT Sampling,UK
+UnivCambridge,late pre-manifest HD,,RPT Sampling,UK
